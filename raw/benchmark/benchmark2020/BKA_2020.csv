@@ -1,0 +1,161 @@
+major_code,major_name,subject_group,point,note,year
+BF1,Kỹ thuật Sinh học,A00,24.6,,2020
+BF1,Kỹ thuật Sinh học,B00,24.6,,2020
+BF1,Kỹ thuật Sinh học,D07,24.6,,2020
+BF2,Kỹ thuật Thực phẩm,A00,24.49,,2020
+BF2,Kỹ thuật Thực phẩm,B00,24.49,,2020
+BF2,Kỹ thuật Thực phẩm,D07,24.49,,2020
+BF-E12,Kỹ thuật Thực phẩm (CT tiên tiến),A00,22.7,,2020
+BF-E12,Kỹ thuật Thực phẩm (CT tiên tiến),B00,22.7,,2020
+BF-E12,Kỹ thuật Thực phẩm (CT tiên tiến),D07,22.7,,2020
+BF-E19,Kỹ thuật sinh học (CT tiên tiến),A00,21,,2020
+BF-E19,Kỹ thuật sinh học (CT tiên tiến),B00,21,,2020
+BF-E19,Kỹ thuật sinh học (CT tiên tiến),D07,21,,2020
+CH1,Kỹ thuật Hóa học,A00,23.7,,2020
+CH1,Kỹ thuật Hóa học,B00,23.7,,2020
+CH1,Kỹ thuật Hóa học,D07,23.7,,2020
+CH2,Hóa học,A00,23.04,,2020
+CH2,Hóa học,B00,23.04,,2020
+CH2,Hóa học,D07,23.04,,2020
+CH3,Kỹ thuật In,A00,22.7,,2020
+CH3,Kỹ thuật In,A01,22.7,,2020
+CH3,Kỹ thuật In,D07,22.7,,2020
+CH-E11,Kỹ thuật Hóa dược (CT tiên tiến),A00,23.44,,2020
+CH-E11,Kỹ thuật Hóa dược (CT tiên tiến),B00,23.44,,2020
+CH-E11,Kỹ thuật Hóa dược (CT tiên tiến),D07,23.44,,2020
+ED2,Công nghệ Giáo dục,A00,24.55,,2020
+ED2,Công nghệ Giáo dục,A01,24.55,,2020
+ED2,Công nghệ Giáo dục,D01,24.55,,2020
+EE1,Kỹ thuật điện,A00,25.55,,2020
+EE1,Kỹ thuật điện,A01,25.55,,2020
+EE2,Kỹ thuật điều khiển & Tự động hóa,A00,27.57,,2020
+EE2,Kỹ thuật điều khiển & Tự động hóa,A01,27.57,,2020
+EE-E18,Hệ thống điện và năng lượng tái tạo (CT tiên tiến),A00,24.47,,2020
+EE-E18,Hệ thống điện và năng lượng tái tạo (CT tiên tiến),A01,24.47,,2020
+EE-E8,Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến),A00,26.74,,2020
+EE-E8,Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến),A01,26.74,,2020
+EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),A00,25.14,,2020
+EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),A01,25.14,,2020
+EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),D29,25.14,,2020
+EM1,Quản lý năng lượng,A00,24.98,,2020
+EM1,Quản lý năng lượng,A01,24.98,,2020
+EM1,Quản lý năng lượng,D01,24.98,,2020
+EM2,Quản lý Công nghiệp,A00,25.39,,2020
+EM2,Quản lý Công nghiệp,A01,25.39,,2020
+EM2,Quản lý Công nghiệp,D01,25.39,,2020
+EM3,Quản trị Kinh doanh,A00,25.83,,2020
+EM3,Quản trị Kinh doanh,A01,25.83,,2020
+EM3,Quản trị Kinh doanh,D01,25.83,,2020
+EM4,Kế toán,A00,25.52,,2020
+EM4,Kế toán,A01,25.52,,2020
+EM4,Kế toán,D01,25.52,,2020
+EM5,Tài chính-Ngân hàng,A00,25.75,,2020
+EM5,Tài chính-Ngân hàng,A01,25.75,,2020
+EM5,Tài chính-Ngân hàng,D01,25.75,,2020
+EM-E13,Phân tích kinh doanh (CT tiên tiến),A01,25.47,,2020
+EM-E13,Phân tích kinh doanh (CT tiên tiến),D01,25.47,,2020
+EM-E13,Phân tích kinh doanh (CT tiên tiến),D07,25.47,,2020
+EM-E14,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),A01,25.69,,2020
+EM-E14,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),D01,25.69,,2020
+EM-E14,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),D07,25.69,,2020
+ET1,Kỹ thuật Điện tử-Viễn thông,A00,26.46,,2020
+ET1,Kỹ thuật Điện tử-Viễn thông,A01,26.46,,2020
+ET2,Kỹ thuật Y sinh,A00,25.04,,2020
+ET2,Kỹ thuật Y sinh,A01,25.04,,2020
+ET2,Kỹ thuật Y sinh,B00,25.04,,2020
+ET-E16,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến),A00,25.73,,2020
+ET-E16,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến),A01,25.73,,2020
+ET-E4,Kỹ thuật Điện tử - Viễn thông (CT tiên tiến),A00,25.99,,2020
+ET-E4,Kỹ thuật Điện tử - Viễn thông (CT tiên tiến),A01,25.99,,2020
+ET-E5,Kỹ thuật Y sinh (CT tiên tiến),A00,23.7,,2020
+ET-E5,Kỹ thuật Y sinh (CT tiên tiến),A01,23.7,,2020
+ET-E9,Hệ thống nhúng thông minh và IoT (tăng cường tiếng Nhật),A00,26.45,,2020
+ET-E9,Hệ thống nhúng thông minh và IoT (tăng cường tiếng Nhật),A01,26.45,,2020
+ET-E9,Hệ thống nhúng thông minh và IoT (tăng cường tiếng Nhật),D28,26.45,,2020
+ET-LUH,Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức),A00,24.3,,2020
+ET-LUH,Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức),A01,24.3,,2020
+ET-LUH,Điện tử - Viễn thông - ĐH Leibniz Hannover (CHLB Đức),D26,24.3,,2020
+EV1,Kỹ thuật Môi trường,A00,21,,2020
+EV1,Kỹ thuật Môi trường,B00,21,,2020
+EV1,Kỹ thuật Môi trường,D07,21,,2020
+EV2,Quản lý Tài nguyên và Môi trường,A00,21,,2020
+EV2,Quản lý Tài nguyên và Môi trường,B00,21,,2020
+EV2,Quản lý Tài nguyên và Môi trường,D07,21,,2020
+FL1,Tiếng Anh KHKT và Công nghệ,D01,25.45,,2020
+FL2,Tiếng Anh chuyên nghiệp quốc tế (liên kết với ĐH Plymouth Marjon-Vương quốc Anh),D01,25.17,,2020
+HE1,Kỹ thuật Nhiệt,A00,23.94,,2020
+HE1,Kỹ thuật Nhiệt,A01,23.94,,2020
+IT1,CNTT: Khoa học Máy tính,A00,29.42,,2020
+IT1,CNTT: Khoa học Máy tính,A01,29.42,,2020
+IT2,CNTT: Kỹ thuật Máy tính,A00,28.29,,2020
+IT2,CNTT: Kỹ thuật Máy tính,A01,28.29,,2020
+IT-E10,Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến),A00,28.8,,2020
+IT-E10,Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến),A01,28.8,,2020
+IT-E15,An toàn không gian số - Cyber security (CT tiên tiến),A00,28.05,,2020
+IT-E15,An toàn không gian số - Cyber security (CT tiên tiến),A01,28.05,,2020
+IT-E6,Công nghệ Thông tin Việt – Nhật (tăng cường tiếng Nhật),A00,27.64,,2020
+IT-E6,Công nghệ Thông tin Việt – Nhật (tăng cường tiếng Nhật),A01,27.64,,2020
+IT-E6,Công nghệ Thông tin Việt – Nhật (tăng cường tiếng Nhật),D28,27.64,,2020
+IT-E7,Công nghệ Thông tin Global ICT (CT tiên tiến),A00,28.16,,2020
+IT-E7,Công nghệ Thông tin Global ICT (CT tiên tiến),A01,28.16,,2020
+IT-EP,Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp),A00,27.32,,2020
+IT-EP,Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp),A01,27.32,,2020
+IT-EP,Công nghệ Thông tin Việt-Pháp (tăng cường tiếng Pháp),D29,27.32,,2020
+ME1,Kỹ thuật Cơ điện tử,A00,26.75,,2020
+ME1,Kỹ thuật Cơ điện tử,A01,26.75,,2020
+ME2,Kỹ thuật Cơ khí,A00,24.96,,2020
+ME2,Kỹ thuật Cơ khí,A01,24.96,,2020
+ME-E1,Kỹ thuật Cơ điện tử (CT tiên tiến),A00,25.47,,2020
+ME-E1,Kỹ thuật Cơ điện tử (CT tiên tiến),A01,25.47,,2020
+ME-GU,Cơ khí Chế tạo máy – hợp tác với trường ĐH Griffith (Australia),A00,23.32,,2020
+ME-GU,Cơ khí Chế tạo máy – hợp tác với trường ĐH Griffith (Australia),A01,23.32,,2020
+ME-LUH,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức),A00,24.02,,2020
+ME-LUH,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức),A01,24.02,,2020
+ME-LUH,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (CHLB Đức),D26,24.02,,2020
+ME-NUT,Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản),A00,23.85,,2020
+ME-NUT,Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản),A01,23.85,,2020
+ME-NUT,Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản),D28,23.85,,2020
+MI1,Toán-Tin,A00,27.21,,2020
+MI1,Toán-Tin,A01,27.21,,2020
+MI2,Hệ thống Thông tin quản lý,A00,27.06,,2020
+MI2,Hệ thống Thông tin quản lý,A01,27.06,,2020
+MS1,Kỹ thuật Vật liệu,A00,23.25,,2020
+MS1,Kỹ thuật Vật liệu,A01,23.25,,2020
+MS1,Kỹ thuật Vật liệu,D07,23.25,,2020
+MS2,Kỹ thuật Vi điện tử và Công nghệ nano,A00,26.18,,2020
+MS2,Kỹ thuật Vi điện tử và Công nghệ nano,A01,26.18,,2020
+MS2,Kỹ thuật Vi điện tử và Công nghệ nano,D07,26.18,,2020
+MS3,Công nghệ vật liệu Polyme và Compozit,A00,23.7,,2020
+MS3,Công nghệ vật liệu Polyme và Compozit,A01,23.7,,2020
+MS3,Công nghệ vật liệu Polyme và Compozit,D07,23.7,,2020
+MS-E3,Khoa học và Kỹ thuật Vật liệu (CT tiên tiến),A00,21.5,,2020
+MS-E3,Khoa học và Kỹ thuật Vật liệu (CT tiên tiến),A01,21.5,,2020
+MS-E3,Khoa học và Kỹ thuật Vật liệu (CT tiên tiến),D07,21.5,,2020
+PH1,Vật lý Kỹ thuật,A00,24.28,,2020
+PH1,Vật lý Kỹ thuật,A01,24.28,,2020
+PH2,Kỹ thuật Hạt nhân,A00,22.31,,2020
+PH2,Kỹ thuật Hạt nhân,A01,22.31,,2020
+PH2,Kỹ thuật Hạt nhân,A02,22.31,,2020
+PH3,Vật lý Y khoa,A00,24.02,,2020
+PH3,Vật lý Y khoa,A01,24.02,,2020
+PH3,Vật lý Y khoa,A02,24.02,,2020
+TE1,Kỹ thuật Ô tô,A00,26.48,,2020
+TE1,Kỹ thuật Ô tô,A01,26.48,,2020
+TE2,Kỹ thuật Cơ khí động lực,A00,25.31,,2020
+TE2,Kỹ thuật Cơ khí động lực,A01,25.31,,2020
+TE3,Kỹ thuật Hàng không,A00,25.5,,2020
+TE3,Kỹ thuật Hàng không,A01,25.5,,2020
+TE-E2,Kỹ thuật Ô tô (CT tiên tiến),A00,25,,2020
+TE-E2,Kỹ thuật Ô tô (CT tiên tiến),A01,25,,2020
+TE-EP,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),A00,23.7,,2020
+TE-EP,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),A01,23.7,,2020
+TE-EP,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),D29,23.7,,2020
+TROY-BA,Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ),A00,23.7,,2020
+TROY-BA,Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ),A01,23.7,,2020
+TROY-BA,Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ),D01,23.7,,2020
+TROY-IT,Khoa học Máy tính - ĐH Troy (Hoa Kỳ),A00,24.96,,2020
+TROY-IT,Khoa học Máy tính - ĐH Troy (Hoa Kỳ),A01,24.96,,2020
+TROY-IT,Khoa học Máy tính - ĐH Troy (Hoa Kỳ),D01,24.96,,2020
+TX1,Công nghệ Dệt May,A00,21.4,,2020
+TX1,Công nghệ Dệt May,A01,21.4,,2020
+TX1,Công nghệ Dệt May,D07,21.4,,2020

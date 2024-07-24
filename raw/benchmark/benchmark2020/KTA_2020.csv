@@ -1,0 +1,92 @@
+major_code,major_name,subject_group,point,note,year
+7580101,Kiến trúc,V00,28.8,Vẽ nhân 2,2020
+7580101,Kiến trúc,V01,28.8,Vẽ nhân 2,2020
+7580101,Kiến trúc,V02,28.8,Vẽ nhân 2,2020
+7580105,Quy hoạch vùng và đô thị,V00,28,Vẽ nhân 2,2020
+7580105,Quy hoạch vùng và đô thị,V01,28,Vẽ nhân 2,2020
+7580105,Quy hoạch vùng và đô thị,V02,28,Vẽ nhân 2,2020
+75801051,Quy hoạch vùng và đô thị (Chuyên ngành Thiết kế đô thị),V00,27.65,Vẽ nhân 2,2020
+75801051,Quy hoạch vùng và đô thị (Chuyên ngành Thiết kế đô thị),V01,27.65,Vẽ nhân 2,2020
+75801051,Quy hoạch vùng và đô thị (Chuyên ngành Thiết kế đô thị),V02,27.65,Vẽ nhân 2,2020
+7580102,Kiến trúc cảnh quan,V00,26.7,Vẽ nhân 2,2020
+7580102,Kiến trúc cảnh quan,V01,26.7,Vẽ nhân 2,2020
+7580102,Kiến trúc cảnh quan,V02,26.7,Vẽ nhân 2,2020
+75801011,Chương trình tiên tiến ngành Kiến trúc,V00,26.23,Vẽ nhân 2,2020
+75801011,Chương trình tiên tiến ngành Kiến trúc,V01,26.23,Vẽ nhân 2,2020
+75801011,Chương trình tiên tiến ngành Kiến trúc,V02,26.23,Vẽ nhân 2,2020
+7580108,Thiết kế nội thất,H00,23,"Đạt điều kiên về điểm NK; Nếu điểm xét tuyển = 23,00 cần có điểm NK >= 15,00",2020
+7580108,Thiết kế nội thất,H02,23,"Đạt điều kiên về điểm NK; Nếu điểm xét tuyển = 23,00 cần có điểm NK >= 15,00",2020
+7210105,Điêu khắc,H00,23,Đạt điều kiện về điểm NK; Điểm NK< 15.00,2020
+7210105,Điêu khắc,H02,23,Đạt điều kiện về điểm NK; Điểm NK< 15.00,2020
+7580213,Kỹ thuật cấp thoát nước,A00,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580213,Kỹ thuật cấp thoát nước,A01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580213,Kỹ thuật cấp thoát nước,D01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580213,Kỹ thuật cấp thoát nước,D07,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị),A00,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị),A01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị),D01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị),D07,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210_l,Kỳ thuật cơ sờ hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị),A00,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210_l,Kỳ thuật cơ sờ hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị),A01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210_l,Kỳ thuật cơ sờ hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị),D01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580210_l,Kỳ thuật cơ sờ hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị),D07,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+75802102,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Công nghệ cơ điện công trình),A00,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+75802102,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Công nghệ cơ điện công trình),A01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+75802102,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Công nghệ cơ điện công trình),D01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+75802102,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Công nghệ cơ điện công trình),D07,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580205,Kỳ thuật xây dựng công trinh giao thông,A00,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580205,Kỳ thuật xây dựng công trinh giao thông,A01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580205,Kỳ thuật xây dựng công trinh giao thông,D01,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7580205,Kỳ thuật xây dựng công trinh giao thông,D07,21.45,Đăng ký NV ưu tiên chuyên ngành trong nhóm ngành,2020
+7210403,Thiết kế đồ họa,H00,24,Đạt điều kiện về điểm NK,2020
+7210403,Thiết kế đồ họa,H02,24,Đạt điều kiện về điểm NK,2020
+7210404,Thiết kế thời trang,H00,22.99,Đạt điều kiện về điểm NK,2020
+7210404,Thiết kế thời trang,H02,22.99,Đạt điều kiện về điểm NK,2020
+7580201,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dán dụng và công nghiệp),A00,20.01,,2020
+7580201,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dán dụng và công nghiệp),A01,20.01,,2020
+7580201,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dán dụng và công nghiệp),D01,20.01,,2020
+7580201,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dán dụng và công nghiệp),D07,20.01,,2020
+7580201-1,Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị),A00,21.3,,2020
+7580201-1,Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị),A01,21.3,,2020
+7580201-1,Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị),D01,21.3,,2020
+7580201-1,Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị),D07,21.3,,2020
+7580201-2,Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng),A00,22.5,,2020
+7580201-2,Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng),A01,22.5,,2020
+7580201-2,Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng),D01,22.5,,2020
+7580201-2,Kỹ thuật xây dựng (Chuyên ngành Quản lý dự án xây dựng),D07,22.5,,2020
+7510105,Công nghệ kỹ thuật vật liệu xây dựng,A00,21.75,,2020
+7510105,Công nghệ kỹ thuật vật liệu xây dựng,A01,21.75,,2020
+7510105,Công nghệ kỹ thuật vật liệu xây dựng,D01,21.75,,2020
+7510105,Công nghệ kỹ thuật vật liệu xây dựng,D07,21.75,,2020
+7580302,Quản lý xây dựng,A00,21.75,,2020
+7580302,Quản lý xây dựng,A01,21.75,,2020
+7580302,Quản lý xây dựng,C01,21.75,,2020
+7580302,Quản lý xây dựng,D01,21.75,,2020
+7580302-1,Quản lý xây dựng (Chuyên ngành Quản lý bất động sản),A00,21.95,,2020
+7580302-1,Quản lý xây dựng (Chuyên ngành Quản lý bất động sản),A01,21.95,,2020
+7580302-1,Quản lý xây dựng (Chuyên ngành Quản lý bất động sản),C01,21.95,,2020
+7580302-1,Quản lý xây dựng (Chuyên ngành Quản lý bất động sản),D01,21.95,,2020
+7580302-2,Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistics),A00,23.93,,2020
+7580302-2,Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistics),A01,23.93,,2020
+7580302-2,Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistics),C01,23.93,,2020
+7580302-2,Quản lý xây dựng (Chuyên ngành Quản lý vận tải và Logistics),D01,23.93,,2020
+7580302-3,Quản lý xây dựng (Chuyên ngành Kinh tề phát triển),A00,22.35,,2020
+7580302-3,Quản lý xây dựng (Chuyên ngành Kinh tề phát triển),A01,22.35,,2020
+7580302-3,Quản lý xây dựng (Chuyên ngành Kinh tề phát triển),C01,22.35,,2020
+7580302-3,Quản lý xây dựng (Chuyên ngành Kinh tề phát triển),D01,22.35,,2020
+7580301,Kinh tế Xây dựng,A00,22.9,,2020
+7580301,Kinh tế Xây dựng,A01,22.9,,2020
+7580301,Kinh tế Xây dựng,C01,22.9,,2020
+7580301,Kinh tế Xây dựng,D01,22.9,,2020
+7580301-1,Kinh tế Xây dựng (Chuyên ngành Kinh tế đầu tư),A00,22.8,,2020
+7580301-1,Kinh tế Xây dựng (Chuyên ngành Kinh tế đầu tư),A01,22.8,,2020
+7580301-1,Kinh tế Xây dựng (Chuyên ngành Kinh tế đầu tư),C01,22.8,,2020
+7580301-1,Kinh tế Xây dựng (Chuyên ngành Kinh tế đầu tư),D01,22.8,,2020
+7480201,Công nghệ thông tin,A00,23.56,,2020
+7480201,Công nghệ thông tin,A01,23.56,,2020
+7480201,Công nghệ thông tin,D01,23.56,,2020
+7480201,Công nghệ thông tin,D07,23.56,,2020
+7480201-1,Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện),A00,24.75,,2020
+7480201-1,Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện),A01,24.75,,2020
+7480201-1,Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện),D01,24.75,,2020
+7480201-1,Công nghệ thông tin (Chuyên ngành Công nghệ đa phương tiện),D07,24.75,,2020

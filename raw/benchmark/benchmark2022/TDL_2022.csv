@@ -1,0 +1,163 @@
+major_code,major_name,subject_group,point,note,year
+7140209,Sư phạm Toán học,A00,26.5,,2022
+7140209,Sư phạm Toán học,A01,26.5,,2022
+7140209,Sư phạm Toán học,D07,26.5,,2022
+7140209,Sư phạm Toán học,D90,26.5,,2022
+7140211,Sư phạm Vật lý,A00,24,,2022
+7140211,Sư phạm Vật lý,A01,24,,2022
+7140211,Sư phạm Vật lý,A12,24,,2022
+7140211,Sư phạm Vật lý,D90,24,,2022
+7140212,Sư phạm Hóa học,A00,24,,2022
+7140212,Sư phạm Hóa học,B00,24,,2022
+7140212,Sư phạm Hóa học,D07,24,,2022
+7140212,Sư phạm Hóa học,D90,24,,2022
+7140213,Sư phạm Sinh học,A00,20.25,,2022
+7140213,Sư phạm Sinh học,B00,20.25,,2022
+7140213,Sư phạm Sinh học,B08,20.25,,2022
+7140213,Sư phạm Sinh học,D90,20.25,,2022
+7140217,Sư phạm Ngữ Văn,C00,26,,2022
+7140217,Sư phạm Ngữ Văn,C20,26,,2022
+7140217,Sư phạm Ngữ Văn,D14,26,,2022
+7140217,Sư phạm Ngữ Văn,D15,26,,2022
+7140218,Sư phạm Lịch Sử,C00,26.75,,2022
+7140218,Sư phạm Lịch Sử,C19,26.75,,2022
+7140218,Sư phạm Lịch Sử,C20,26.75,,2022
+7140218,Sư phạm Lịch Sử,D14,26.75,,2022
+7140231,Sư phạm Tiếng Anh,D01,27,,2022
+7140231,Sư phạm Tiếng Anh,D72,27,,2022
+7140231,Sư phạm Tiếng Anh,D96,27,,2022
+7140210,Sư phạm Tin học,A00,19,,2022
+7140210,Sư phạm Tin học,A01,19,,2022
+7140210,Sư phạm Tin học,007,19,,2022
+7140210,Sư phạm Tin học,090,19,,2022
+7140202,Giáo dục Tiểu học,A16,25.25,,2022
+7140202,Giáo dục Tiểu học,C14,25.25,,2022
+7140202,Giáo dục Tiểu học,C15,25.25,,2022
+7140202,Giáo dục Tiểu học,D01,25.25,,2022
+7460101,Toán học,A00,16,,2022
+7460101,Toán học,A01,16,,2022
+7460101,Toán học,D07,16,,2022
+7460101,Toán học,D90,16,,2022
+7460108,Khoa học dữ liệu,A00,16,,2022
+7460108,Khoa học dữ liệu,A01,16,,2022
+7460108,Khoa học dữ liệu,D07,16,,2022
+7460108,Khoa học dữ liệu,D90,16,,2022
+7480201,Công nghệ thông tin,A00,16,,2022
+7480201,Công nghệ thông tin,A01,16,,2022
+7480201,Công nghệ thông tin,D07,16,,2022
+7480201,Công nghệ thông tin,D90,16,,2022
+7440102,Vật lý học,A00,16,,2022
+7440102,Vật lý học,A01,16,,2022
+7440102,Vật lý học,A12,16,,2022
+7440102,Vật lý học,D90,16,,2022
+7510302,Công nghệ kỹ thuật Điện tử - Viễn thông,A00,16,,2022
+7510302,Công nghệ kỹ thuật Điện tử - Viễn thông,A01,16,,2022
+7510302,Công nghệ kỹ thuật Điện tử - Viễn thông,A12,16,,2022
+7510302,Công nghệ kỹ thuật Điện tử - Viễn thông,D90,16,,2022
+7520402,Kỹ thuật hạt nhân,A00,16,,2022
+7520402,Kỹ thuật hạt nhân,A01,16,,2022
+7520402,Kỹ thuật hạt nhân,D01,16,,2022
+7520402,Kỹ thuật hạt nhân,D90,16,,2022
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A00,16,,2022
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A01,16,,2022
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A12,16,,2022
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,D90,16,,2022
+7440112,Hóa học,A00,16,,2022
+7440112,Hóa học,B00,16,,2022
+7440112,Hóa học,D07,16,,2022
+7440112,Hóa học,D90,16,,2022
+7720203,Hóa dược,A00,16,,2022
+7720203,Hóa dược,B00,16,,2022
+7720203,Hóa dược,D07,16,,2022
+7720203,Hóa dược,D90,16,,2022
+7510406,Công nghệ kỹ thuật môi trường,A00,16,,2022
+7510406,Công nghệ kỹ thuật môi trường,B00,16,,2022
+7510406,Công nghệ kỹ thuật môi trường,D07,16,,2022
+7510406,Công nghệ kỹ thuật môi trường,D90,16,,2022
+7420101,Sinh học,A00,16,,2022
+7420101,Sinh học,B00,16,,2022
+7420101,Sinh học,B08,16,,2022
+7420101,Sinh học,D90,16,,2022
+7420201,Công nghệ sinh học,A00,16,,2022
+7420201,Công nghệ sinh học,B00,16,,2022
+7420201,Công nghệ sinh học,B08,16,,2022
+7420201,Công nghệ sinh học,D90,16,,2022
+7340101,Quản trị kinh doanh,A00,18,,2022
+7340101,Quản trị kinh doanh,A01,18,,2022
+7340101,Quản trị kinh doanh,D01,18,,2022
+7340101,Quản trị kinh doanh,D96,18,,2022
+7340301,Kế toán,A00,16,,2022
+7340301,Kế toán,A01,16,,2022
+7340301,Kế toán,D01,16,,2022
+7340301,Kế toán,D96,16,,2022
+7340201,Tài chính - Ngân hàng,A00,16,,2022
+7340201,Tài chính - Ngân hàng,A01,16,,2022
+7340201,Tài chính - Ngân hàng,D01,16,,2022
+7340201,Tài chính - Ngân hàng,D96,16,,2022
+7540101,Công nghệ thực phẩm,A00,16,,2022
+7540101,Công nghệ thực phẩm,A02,16,,2022
+7540101,Công nghệ thực phẩm,B00,16,,2022
+7540101,Công nghệ thực phẩm,D07,16,,2022
+7620109,Nông học,B00,16,,2022
+7620109,Nông học,B08,16,,2022
+7620109,Nông học,D07,16,,2022
+7620109,Nông học,D90,16,,2022
+7540104,Công nghệ sau thu hoạch,A00,16,,2022
+7540104,Công nghệ sau thu hoạch,B00,16,,2022
+7540104,Công nghệ sau thu hoạch,B08,16,,2022
+7540104,Công nghệ sau thu hoạch,D90,16,,2022
+7380101,Luật,A00,18,,2022
+7380101,Luật,C00,18,,2022
+7380101,Luật,C20,18,,2022
+7380101,Luật,D01,18,,2022
+7380104,Luật hình sự và tố tụng hình sự,A00,16,,2022
+7380104,Luật hình sự và tố tụng hình sự,C00,16,,2022
+7380104,Luật hình sự và tố tụng hình sự,C20,16,,2022
+7380104,Luật hình sự và tố tụng hình sự,D01,16,,2022
+7810103,Quản trị dịch vụ du lịch và lữ hành,C00,18,,2022
+7810103,Quản trị dịch vụ du lịch và lữ hành,C20,18,,2022
+7810103,Quản trị dịch vụ du lịch và lữ hành,D01,18,,2022
+7810103,Quản trị dịch vụ du lịch và lữ hành,D78,18,,2022
+7310630,Việt Nam Học,C00,16,,2022
+7310630,Việt Nam Học,C20,16,,2022
+7310630,Việt Nam Học,D14,16,,2022
+7310630,Việt Nam Học,D15,16,,2022
+7310608,"Đông phương học (Hàn Quốc học, Nhật Bản học)",C00,16.5,,2022
+7310608,"Đông phương học (Hàn Quốc học, Nhật Bản học)",D01,16.5,,2022
+7310608,"Đông phương học (Hàn Quốc học, Nhật Bản học)",D78,16.5,,2022
+7310608,"Đông phương học (Hàn Quốc học, Nhật Bản học)",D96,16.5,,2022
+7310601,Quốc tế học,C00,16,,2022
+7310601,Quốc tế học,C20,16,,2022
+7310601,Quốc tế học,D01,16,,2022
+7310601,Quốc tế học,D78,16,,2022
+7229030,Văn học,C00,16,,2022
+7229030,Văn học,C20,16,,2022
+7229030,Văn học,D14,16,,2022
+7229030,Văn học,D15,16,,2022
+7810106,Văn hóa du lịch,C00,16,,2022
+7810106,Văn hóa du lịch,C20,16,,2022
+7810106,Văn hóa du lịch,D14,16,,2022
+7810106,Văn hóa du lịch,D15,16,,2022
+7310612,Trung Quốc học,C00,16,,2022
+7310612,Trung Quốc học,C20,16,,2022
+7310612,Trung Quốc học,D14,16,,2022
+7310612,Trung Quốc học,D15,16,,2022
+7229010,Lịch sử,C00,16,,2022
+7229010,Lịch sử,C19,16,,2022
+7229010,Lịch sử,C20,16,,2022
+7229010,Lịch sử,D14,16,,2022
+7760101,Công tác xã hội,C00,16,,2022
+7760101,Công tác xã hội,C20,16,,2022
+7760101,Công tác xã hội,D01,16,,2022
+7760101,Công tác xã hội,D14,16,,2022
+7760104,Dân số và Phát triển,C00,16,,2022
+7760104,Dân số và Phát triển,C20,16,,2022
+7760104,Dân số và Phát triển,D01,16,,2022
+7760104,Dân số và Phát triển,D14,16,,2022
+7310301,Xã hội học,C00,16,,2022
+7310301,Xã hội học,C20,16,,2022
+7310301,Xã hội học,D01,16,,2022
+7310301,Xã hội học,D14,16,,2022
+7220201,Ngôn ngữ Anh,D01,16.5,,2022
+7220201,Ngôn ngữ Anh,D72,16.5,,2022
+7220201,Ngôn ngữ Anh,D96,16.5,,2022

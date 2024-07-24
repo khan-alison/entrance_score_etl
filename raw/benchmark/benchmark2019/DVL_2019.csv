@@ -1,0 +1,234 @@
+major_code,major_name,subject_group,point,note,year
+7210205,Thanh nhạc,N00,18, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210208,Piano,N00,18, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210234,"Diễn viên kịch, điện ảnh - truyền hình",S00,18, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210235,"Đạo diễn điện ảnh, truyền hình",S00,18, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210302,"Công nghệ điện ảnh, truyền hình",H01,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210302,"Công nghệ điện ảnh, truyền hình",H03,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210302,"Công nghệ điện ảnh, truyền hình",H04,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210302,"Công nghệ điện ảnh, truyền hình",V00,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210402,Thiết kế công nghiệp,H03,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210402,Thiết kế công nghiệp,H04,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210402,Thiết kế công nghiệp,H05,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210402,Thiết kế công nghiệp,H06,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210403,Thiết kế đồ họa,H03,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210403,Thiết kế đồ họa,H04,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210403,Thiết kế đồ họa,H05,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210403,Thiết kế đồ họa,H06,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210404,Thiết kế thời trang,H03,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210404,Thiết kế thời trang,H04,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210404,Thiết kế thời trang,H05,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210404,Thiết kế thời trang,H06,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210409,Thiết kế mỹ thuật số,H03,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210409,Thiết kế mỹ thuật số,H04,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210409,Thiết kế mỹ thuật số,H05,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7210409,Thiết kế mỹ thuật số,H06,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7220201,Ngôn ngữ Anh,D01,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7220201,Ngôn ngữ Anh,D08,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7220201,Ngôn ngữ Anh,D10,16, (môn 1 + môn 2 + môn chính * 2) * 3/4,2019
+7220204,Ngôn ngữ Trung Quốc,A01,16,,2019
+7220204,Ngôn ngữ Trung Quốc,D01,16,,2019
+7220204,Ngôn ngữ Trung Quốc,D04,16,,2019
+7220204,Ngôn ngữ Trung Quốc,D41,16,,2019
+7220210,Ngôn ngữ Hàn Quốc,D01,16,,2019
+7220210,Ngôn ngữ Hàn Quốc,D10,16,,2019
+7220210,Ngôn ngữ Hàn Quốc,D14,16,,2019
+7220210,Ngôn ngữ Hàn Quốc,D66,16,,2019
+7229030,Văn học,C00,16,,2019
+7229030,Văn học,D01,16,,2019
+7229030,Văn học,D14,16,,2019
+7229030,Văn học,D66,16,,2019
+7310106,Kinh tế quốc tế,A00,16,,2019
+7310106,Kinh tế quốc tế,A01,16,,2019
+7310106,Kinh tế quốc tế,D01,16,,2019
+7310106,Kinh tế quốc tế,D07,16,,2019
+7310401,Tâm lý học,B00,16,,2019
+7310401,Tâm lý học,B03,16,,2019
+7310401,Tâm lý học,C00,16,,2019
+7310401,Tâm lý học,D01,16,,2019
+7310608,Đông phương học,A01,16,,2019
+7310608,Đông phương học,C00,16,,2019
+7310608,Đông phương học,D01,16,,2019
+7310608,Đông phương học,D04,16,,2019
+7320104,Truyền thông đa phương tiện,A00,18,,2019
+7320104,Truyền thông đa phương tiện,A01,18,,2019
+7320104,Truyền thông đa phương tiện,C00,18,,2019
+7320104,Truyền thông đa phương tiện,D01,18,,2019
+7320106,Công nghệ truyền thông,A00,16,,2019
+7320106,Công nghệ truyền thông,A01,16,,2019
+7320106,Công nghệ truyền thông,C01,16,,2019
+7320106,Công nghệ truyền thông,D01,16,,2019
+7320108,Quan hệ công chúng,A00,18,,2019
+7320108,Quan hệ công chúng,A01,18,,2019
+7320108,Quan hệ công chúng,C00,18,,2019
+7320108,Quan hệ công chúng,D01,18,,2019
+7340101,Quản trị kinh doanh,A00,17,,2019
+7340101,Quản trị kinh doanh,A01,17,,2019
+7340101,Quản trị kinh doanh,C01,17,,2019
+7340101,Quản trị kinh doanh,D01,17,,2019
+7340115,Marketing,A00,17,,2019
+7340115,Marketing,A01,17,,2019
+7340115,Marketing,C01,17,,2019
+7340115,Marketing,D01,17,,2019
+7340116,Bất động sản,A00,16,,2019
+7340116,Bất động sản,A01,16,,2019
+7340116,Bất động sản,C04,16,,2019
+7340116,Bất động sản,D01,16,,2019
+7340120,Kinh doanh quốc tế,A00,16,,2019
+7340120,Kinh doanh quốc tế,A01,16,,2019
+7340120,Kinh doanh quốc tế,C01,16,,2019
+7340120,Kinh doanh quốc tế,D01,16,,2019
+7340121,Kinh doanh thương mại,A00,16,,2019
+7340121,Kinh doanh thương mại,A01,16,,2019
+7340121,Kinh doanh thương mại,C01,16,,2019
+7340121,Kinh doanh thương mại,D01,16,,2019
+7340122,Thương mại điện tử,A00,16,,2019
+7340122,Thương mại điện tử,A01,16,,2019
+7340122,Thương mại điện tử,C01,16,,2019
+7340122,Thương mại điện tử,D01,16,,2019
+7340201,Tài chính - Ngân hàng,A00,16,,2019
+7340201,Tài chính - Ngân hàng,A01,16,,2019
+7340201,Tài chính - Ngân hàng,C04,16,,2019
+7340201,Tài chính - Ngân hàng,D01,16,,2019
+7340205,Công nghệ tài chính,A00,16,,2019
+7340205,Công nghệ tài chính,A01,16,,2019
+7340205,Công nghệ tài chính,C01,16,,2019
+7340205,Công nghệ tài chính,D01,16,,2019
+7340301,Kế toán,A00,16,,2019
+7340301,Kế toán,A01,16,,2019
+7340301,Kế toán,D01,16,,2019
+7340301,Kế toán,D10,16,,2019
+7380101,Luật,A00,16,,2019
+7380101,Luật,A01,16,,2019
+7380101,Luật,C00,16,,2019
+7380101,Luật,D01,16,,2019
+7380107,Luật kinh tế,A00,16,,2019
+7380107,Luật kinh tế,A01,16,,2019
+7380107,Luật kinh tế,C00,16,,2019
+7380107,Luật kinh tế,D01,16,,2019
+7420201,Công nghệ sinh học,A00,16,,2019
+7420201,Công nghệ sinh học,A01,16,,2019
+7420201,Công nghệ sinh học,B00,16,,2019
+7420201,Công nghệ sinh học,D08,16,,2019
+7420205,Công nghệ sinh học Y dược,A00,16,,2019
+7420205,Công nghệ sinh học Y dược,B00,16,,2019
+7420205,Công nghệ sinh học Y dược,D07,16,,2019
+7420205,Công nghệ sinh học Y dược,D08,16,,2019
+7450207,Công nghệ thẩm mỹ,A00,16,,2019
+7450207,Công nghệ thẩm mỹ,B00,16,,2019
+7450207,Công nghệ thẩm mỹ,D07,16,,2019
+7450207,Công nghệ thẩm mỹ,D08,16,,2019
+7460108,Khoa học dữ liệu,A00,16,,2019
+7460108,Khoa học dữ liệu,A01,16,,2019
+7460108,Khoa học dữ liệu,C01,16,,2019
+7460108,Khoa học dữ liệu,D01,16,,2019
+7480102,Mạng máy tính và truyền thông dữ liệu,A00,16,,2019
+7480102,Mạng máy tính và truyền thông dữ liệu,A01,16,,2019
+7480102,Mạng máy tính và truyền thông dữ liệu,D01,16,,2019
+7480102,Mạng máy tính và truyền thông dữ liệu,D07,16,,2019
+7480103,Kỹ thuật phần mềm,A00,16,,2019
+7480103,Kỹ thuật phần mềm,A01,16,,2019
+7480103,Kỹ thuật phần mềm,D01,16,,2019
+7480103,Kỹ thuật phần mềm,D10,16,,2019
+7480104,Hệ thống thông tin,A00,16,,2019
+7480104,Hệ thống thông tin,A01,16,,2019
+7480104,Hệ thống thông tin,D07,16,,2019
+7480104,Hệ thống thông tin,D10,16,,2019
+7480201,Công nghệ thông tin,A00,16,,2019
+7480201,Công nghệ thông tin,A01,16,,2019
+7480201,Công nghệ thông tin,D01,16,,2019
+7480201,Công nghệ thông tin,D10,16,,2019
+7510205,Công nghệ kỹ thuật ô tô,A00,16,,2019
+7510205,Công nghệ kỹ thuật ô tô,A01,16,,2019
+7510205,Công nghệ kỹ thuật ô tô,C01,16,,2019
+7510205,Công nghệ kỹ thuật ô tô,D01,16,,2019
+7510301,"Công nghệ kỹ thuật điện, điện tử",A00,16,,2019
+7510301,"Công nghệ kỹ thuật điện, điện tử",A01,16,,2019
+7510301,"Công nghệ kỹ thuật điện, điện tử",C01,16,,2019
+7510301,"Công nghệ kỹ thuật điện, điện tử",D01,16,,2019
+7510406,Công nghệ kỹ thuật môi trường,A00,16,,2019
+7510406,Công nghệ kỹ thuật môi trường,B00,16,,2019
+7510406,Công nghệ kỹ thuật môi trường,D07,16,,2019
+7510406,Công nghệ kỹ thuật môi trường,D08,16,,2019
+7510605,Logistics và quản lý chuỗi cung ứng,A00,16,,2019
+7510605,Logistics và quản lý chuỗi cung ứng,A01,16,,2019
+7510605,Logistics và quản lý chuỗi cung ứng,C01,16,,2019
+7510605,Logistics và quản lý chuỗi cung ứng,D01,16,,2019
+7520114,Kỹ thuật cơ điện tử,A00,16,,2019
+7520114,Kỹ thuật cơ điện tử,A01,16,,2019
+7520114,Kỹ thuật cơ điện tử,C01,16,,2019
+7520114,Kỹ thuật cơ điện tử,D01,16,,2019
+7520115,Kỹ thuật nhiệt,A00,16,,2019
+7520115,Kỹ thuật nhiệt,A01,16,,2019
+7520115,Kỹ thuật nhiệt,D07,16,,2019
+7520115,Kỹ thuật nhiệt,D10,16,,2019
+7520120,Kỹ thuật hàng không,A00,16,,2019
+7520120,Kỹ thuật hàng không,A01,16,,2019
+7520120,Kỹ thuật hàng không,C01,16,,2019
+7520120,Kỹ thuật hàng không,D01,16,,2019
+7540101,Công nghệ thực phẩm,A00,16,,2019
+7540101,Công nghệ thực phẩm,B00,16,,2019
+7540101,Công nghệ thực phẩm,C08,16,,2019
+7540101,Công nghệ thực phẩm,D08,16,,2019
+7580101,Kiến trúc,V00,16,,2019
+7580101,Kiến trúc,V01,16,,2019
+7580101,Kiến trúc,H02,16,,2019
+7580108,Thiết kế nội thất,H03,16,,2019
+7580108,Thiết kế nội thất,H04,16,,2019
+7580108,Thiết kế nội thất,H05,16,,2019
+7580108,Thiết kế nội thất,H06,16,,2019
+7580201,Kỹ thuật xây dựng,A00,16,,2019
+7580201,Kỹ thuật xây dựng,A01,16,,2019
+7580201,Kỹ thuật xây dựng,D01,16,,2019
+7580201,Kỹ thuật xây dựng,D07,16,,2019
+7580205,Kỹ thuật XD công trình giao thông,A00,16,,2019
+7580205,Kỹ thuật XD công trình giao thông,A01,16,,2019
+7580205,Kỹ thuật XD công trình giao thông,D01,16,,2019
+7580205,Kỹ thuật XD công trình giao thông,D07,16,,2019
+7580302,Quản lý xây dựng,A00,16,,2019
+7580302,Quản lý xây dựng,A01,16,,2019
+7580302,Quản lý xây dựng,D01,16,,2019
+7580302,Quản lý xây dựng,D07,16,,2019
+7620118,Nông nghiệp công nghệ cao,A00,16,,2019
+7620118,Nông nghiệp công nghệ cao,B00,16,,2019
+7620118,Nông nghiệp công nghệ cao,D07,16,,2019
+7620118,Nông nghiệp công nghệ cao,D08,16,,2019
+7720101,Y khoa,A00,22.5,,2019
+7720101,Y khoa,B00,22.5,,2019
+7720101,Y khoa,D08,22.5,,2019
+7720101,Y khoa,D12,22.5,,2019
+7720201,Dược học,A00,21,,2019
+7720201,Dược học,B00,21,,2019
+7720201,Dược học,D07,21,,2019
+7720301,Điều dưỡng,B00,19,,2019
+7720301,Điều dưỡng,C08,19,,2019
+7720301,Điều dưỡng,D07,19,,2019
+7720301,Điều dưỡng,D08,19,,2019
+7720501,Răng - Hàm - Mặt,A00,24,,2019
+7720501,Răng - Hàm - Mặt,B00,24,,2019
+7720501,Răng - Hàm - Mặt,D07,24,,2019
+7720501,Răng - Hàm - Mặt,D08,24,,2019
+7720601,Kỹ thuật xét nghiệm Y học,A00,19,,2019
+7720601,Kỹ thuật xét nghiệm Y học,B00,19,,2019
+7720601,Kỹ thuật xét nghiệm Y học,D07,19,,2019
+7720601,Kỹ thuật xét nghiệm Y học,D08,19,,2019
+7810101,Du lịch,A00,16,,2019
+7810101,Du lịch,A01,16,,2019
+7810101,Du lịch,C00,16,,2019
+7810101,Du lịch,D01,16,,2019
+7810103,Quản trị dịch vụ du lịch và lữ hành,A00,16,,2019
+7810103,Quản trị dịch vụ du lịch và lữ hành,A01,16,,2019
+7810103,Quản trị dịch vụ du lịch và lữ hành,D01,16,,2019
+7810103,Quản trị dịch vụ du lịch và lữ hành,D03,16,,2019
+7810201,Quản trị khách sạn,A00,16,,2019
+7810201,Quản trị khách sạn,A01,16,,2019
+7810201,Quản trị khách sạn,D01,16,,2019
+7810201,Quản trị khách sạn,D03,16,,2019
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,A00,16,,2019
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,A01,16,,2019
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D01,16,,2019
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D03,16,,2019
+7850201,Bảo hộ lao động,A00,16,,2019
+7850201,Bảo hộ lao động,A01,16,,2019
+7850201,Bảo hộ lao động,A02,16,,2019
+7850201,Bảo hộ lao động,B00,16,,2019

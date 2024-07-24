@@ -1,0 +1,157 @@
+major_code,major_name,subject_group,point,note,year
+BIO1,Công nghệ sinh học,A00,18,,2021
+BIO1,Công nghệ sinh học,B00,18,,2021
+BIO1,Công nghệ sinh học,B08,18,,2021
+BIO1,Công nghệ sinh học,D07,18,,2021
+CHE1,Kỹ thuật hóa học,A00,17,,2021
+CHE1,Kỹ thuật hóa học,A01,17,,2021
+CHE1,Kỹ thuật hóa học,B00,17,,2021
+CHE1,Kỹ thuật hóa học,D07,17,,2021
+EEE1,Kỹ thuật điều khiển và tự động hóa,A00,22,,2021
+EEE1,Kỹ thuật điều khiển và tự động hóa,A01,22,,2021
+EEE1,Kỹ thuật điều khiển và tự động hóa,C01,22,,2021
+EEE1,Kỹ thuật điều khiển và tự động hóa,D07,22,,2021
+EEE2,Kỹ thuật y sinh (Điện tử y sinh),A00,20,,2021
+EEE2,Kỹ thuật y sinh (Điện tử y sinh),A01,20,,2021
+EEE2,Kỹ thuật y sinh (Điện tử y sinh),B00,20,,2021
+EEE2,Kỹ thuật y sinh (Điện tử y sinh),C01,20,,2021
+EEE3,Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và IOT),A00,21,,2021
+EEE3,Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và IOT),A01,21,,2021
+EEE3,Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và IOT),C01,21,,2021
+EEE3,Kỹ thuật điện tử - viễn thông (Hệ thống nhúng thông minh và IOT),D07,21,,2021
+EEE-AI,Kỹ thuật Robot và trí tuệ nhân tạo (Đào tạo song ngữ Việt - Anh),A00,22,,2021
+EEE-AI,Kỹ thuật Robot và trí tuệ nhân tạo (Đào tạo song ngữ Việt - Anh),A01,22,,2021
+EEE-AI,Kỹ thuật Robot và trí tuệ nhân tạo (Đào tạo song ngữ Việt - Anh),C01,22,,2021
+EEE-AI,Kỹ thuật Robot và trí tuệ nhân tạo (Đào tạo song ngữ Việt - Anh),D07,22,,2021
+ICT1,Công nghệ thông tin,A00,21,,2021
+ICT1,Công nghệ thông tin,A01,21,,2021
+ICT1,Công nghệ thông tin,D07,21,,2021
+ICT2,Kỹ thuật phần mềm,A00,21,,2021
+ICT2,Kỹ thuật phần mềm,A01,21,,2021
+ICT2,Kỹ thuật phần mềm,D07,21,,2021
+ICT-VJ,Công nghệ thông tin Việt - Nhật,A00,21,,2021
+ICT-VJ,Công nghệ thông tin Việt - Nhật,A01,21,,2021
+ICT-VJ,Công nghệ thông tin Việt - Nhật,D07,21,,2021
+ICT-VJ,Công nghệ thông tin Việt - Nhật,D28,21,,2021
+ICT-AI,Trí tuệ nhân tạo và khoa học dữ liệu,A00,21,,2021
+ICT-AI,Trí tuệ nhân tạo và khoa học dữ liệu,A01,21,,2021
+ICT-AI,Trí tuệ nhân tạo và khoa học dữ liệu,D07,21,,2021
+ICT-TN,Tài năng khoa học máy tính,A00,23,,2021
+ICT-TN,Tài năng khoa học máy tính,A01,23,,2021
+ICT-TN,Tài năng khoa học máy tính,D07,23,,2021
+MEM1,Kỹ thuật cơ điện tử,A00,20,,2021
+MEM1,Kỹ thuật cơ điện tử,A01,20,,2021
+MEM1,Kỹ thuật cơ điện tử,A02,20,,2021
+MEM1,Kỹ thuật cơ điện tử,C01,20,,2021
+MEM2,Kỹ thuật cơ khí,A00,19,,2021
+MEM2,Kỹ thuật cơ khí,A01,19,,2021
+MEM2,Kỹ thuật cơ khí,A02,19,,2021
+MEM2,Kỹ thuật cơ khí,C01,19,,2021
+MSE1,Vật liệu tiên tiến và công nghệ NANO,A00,20,,2021
+MSE1,Vật liệu tiên tiến và công nghệ NANO,A01,20,,2021
+MSE1,Vật liệu tiên tiến và công nghệ NANO,B00,20,,2021
+MSE1,Vật liệu tiên tiến và công nghệ NANO,D07,20,,2021
+MSE-AI,Vật liệu thông minh và trí tuệ nhân tạo,A00,20,,2021
+MSE-AI,Vật liệu thông minh và trí tuệ nhân tạo,A01,20,,2021
+MSE-AI,Vật liệu thông minh và trí tuệ nhân tạo,C01,20,,2021
+MSE-AI,Vật liệu thông minh và trí tuệ nhân tạo,D07,20,,2021
+VEE1,Kỹ thuật ô tô,A00,20.5,,2021
+VEE1,Kỹ thuật ô tô,A01,20.5,,2021
+VEE1,Kỹ thuật ô tô,A10,20.5,,2021
+VEE1,Kỹ thuật ô tô,D01,20.5,,2021
+VEE2,Cơ điện tử ô tô,A00,20,,2021
+VEE2,Cơ điện tử ô tô,A01,20,,2021
+VEE2,Cơ điện tử ô tô,A10,20,,2021
+VEE2,Cơ điện tử ô tô,D01,20,,2021
+FBE1,Quản trị kinh doanh,A00,21,,2021
+FBE1,Quản trị kinh doanh,A01,21,,2021
+FBE1,Quản trị kinh doanh,D01,21,,2021
+FBE1,Quản trị kinh doanh,D07,21,,2021
+FBE2,Kế toán,A00,21,,2021
+FBE2,Kế toán,A01,21,,2021
+FBE2,Kế toán,D01,21,,2021
+FBE2,Kế toán,D07,21,,2021
+FBE3,Tài chính - Ngân hàng,A00,23,,2021
+FBE3,Tài chính - Ngân hàng,A01,23,,2021
+FBE3,Tài chính - Ngân hàng,D01,23,,2021
+FBE3,Tài chính - Ngân hàng,D07,23,,2021
+FBE4,Quản trị nhân lực,A00,21,,2021
+FBE4,Quản trị nhân lực,A01,21,,2021
+FBE4,Quản trị nhân lực,D01,21,,2021
+FBE4,Quản trị nhân lực,D07,21,,2021
+FBE5,Luật kinh tế,C00,21,,2021
+FBE5,Luật kinh tế,C04,21,,2021
+FBE5,Luật kinh tế,D01,21,,2021
+FBE5,Luật kinh tế,D14,21,,2021
+FBE6,Kinh doanh quốc tế (Các môn chuyên ngành học bằng Tiếng Anh),A01,21,,2021
+FBE6,Kinh doanh quốc tế (Các môn chuyên ngành học bằng Tiếng Anh),D01,21,,2021
+FBE6,Kinh doanh quốc tế (Các môn chuyên ngành học bằng Tiếng Anh),D07,21,,2021
+FBE6,Kinh doanh quốc tế (Các môn chuyên ngành học bằng Tiếng Anh),D10,21,,2021
+FBE7,Logictics và quản lý chuỗi cung ứng,A01,21,,2021
+FBE7,Logictics và quản lý chuỗi cung ứng,D01,21,,2021
+FBE7,Logictics và quản lý chuỗi cung ứng,D07,21,,2021
+FBE7,Logictics và quản lý chuỗi cung ứng,D10,21,,2021
+FLE1,Ngôn ngữ Anh,D01,21,,2021
+FLE1,Ngôn ngữ Anh,D09,21,,2021
+FLE1,Ngôn ngữ Anh,D14,21,,2021
+FLE1,Ngôn ngữ Anh,D15,21,,2021
+FLC1,Ngôn ngữ Trung Quốc,A01,23,,2021
+FLC1,Ngôn ngữ Trung Quốc,D01,23,,2021
+FLC1,Ngôn ngữ Trung Quốc,D04,23,,2021
+FLC1,Ngôn ngữ Trung Quốc,D09,23,,2021
+FLK1,Ngôn ngữ Hàn Quốc,A01,23,,2021
+FLK1,Ngôn ngữ Hàn Quốc,D01,23,,2021
+FLK1,Ngôn ngữ Hàn Quốc,D09,23,,2021
+FLK1,Ngôn ngữ Hàn Quốc,DD2,23,,2021
+FLJ1,Ngôn ngữ Nhật,A01,17.5,,2021
+FLJ1,Ngôn ngữ Nhật,D01,17.5,,2021
+FLJ1,Ngôn ngữ Nhật,D06,17.5,,2021
+FLJ1,Ngôn ngữ Nhật,D28,17.5,,2021
+FLF1,Ngôn ngữ Pháp,A01,17,,2021
+FLF1,Ngôn ngữ Pháp,D01,17,,2021
+FLF1,Ngôn ngữ Pháp,D44,17,,2021
+FLF1,Ngôn ngữ Pháp,D64,17,,2021
+FOS1,Đông phương học,C00,17,,2021
+FOS1,Đông phương học,D01,17,,2021
+FOS1,Đông phương học,D09,17,,2021
+FOS1,Đông phương học,D14,17,,2021
+FTS1,Du lịch (định hướng Quản trị du lịch),A01,21,,2021
+FTS1,Du lịch (định hướng Quản trị du lịch),C00,21,,2021
+FTS1,Du lịch (định hướng Quản trị du lịch),D01,21,,2021
+FTS1,Du lịch (định hướng Quản trị du lịch),D15,21,,2021
+FTS3,Kinh doanh du lịch số,A00,21,,2021
+FTS3,Kinh doanh du lịch số,A01,21,,2021
+FTS3,Kinh doanh du lịch số,D01,21,,2021
+FTS3,Kinh doanh du lịch số,D10,21,,2021
+FTS4,Hướng dẫn du lịch quốc tế,A01,21,,2021
+FTS4,Hướng dẫn du lịch quốc tế,C00,21,,2021
+FTS4,Hướng dẫn du lịch quốc tế,D01,21,,2021
+FTS4,Hướng dẫn du lịch quốc tế,D15,21,,2021
+FTS2,Quản trị khách sạn,A00,21,,2021
+FTS2,Quản trị khách sạn,A01,21,,2021
+FTS2,Quản trị khách sạn,D01,21,,2021
+FTS2,Quản trị khách sạn,D10,21,,2021
+NUR1,Điều dưỡng,A00,19,,2021
+NUR1,Điều dưỡng,A01,19,,2021
+NUR1,Điều dưỡng,B00,19,,2021
+NUR1,Điều dưỡng,B08,19,,2021
+PHA1,Dược học,A00,21,,2021
+PHA1,Dược học,B00,21,,2021
+PHA1,Dược học,B08,21,,2021
+PHA1,Dược học,D07,21,,2021
+RET1,Kỹ thuật phục hồi chức năng,A02,19,,2021
+RET1,Kỹ thuật phục hồi chức năng,B00,19,,2021
+RET1,Kỹ thuật phục hồi chức năng,B08,19,,2021
+RET1,Kỹ thuật phục hồi chức năng,D07,19,,2021
+MTT1,Kỹ thuật xét nghiệm y học,A02,19,,2021
+MTT1,Kỹ thuật xét nghiệm y học,B00,19,,2021
+MTT1,Kỹ thuật xét nghiệm y học,B08,19,,2021
+MTT1,Kỹ thuật xét nghiệm y học,D07,19,,2021
+MED1,Y khoa,A00,22.5,,2021
+MED1,Y khoa,B00,22.5,,2021
+MED1,Y khoa,B08,22.5,,2021
+MED1,Y khoa,D07,22.5,,2021
+DEN1,Răng - Hàm - Mặt,A00,22.5,,2021
+DEN1,Răng - Hàm - Mặt,B00,22.5,,2021
+DEN1,Răng - Hàm - Mặt,B08,22.5,,2021
+DEN1,Răng - Hàm - Mặt,D07,22.5,,2021

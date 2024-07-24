@@ -1,0 +1,101 @@
+major_code,major_name,subject_group,point,note,year
+BANK01,Ngân hàng (Chương trình Chất lượng cao),A00,32.7,Môn Toán nhân đôi,2023
+BANK01,Ngân hàng (Chương trình Chất lượng cao),A01,32.7,Môn Toán nhân đôi,2023
+BANK01,Ngân hàng (Chương trình Chất lượng cao),D01,32.7,Môn Toán nhân đôi,2023
+BANK01,Ngân hàng (Chương trình Chất lượng cao),D07,32.7,Môn Toán nhân đôi,2023
+FIN01,Tài chính (Chương trình Chất lượng cao),A00,32.6,Môn Toán nhân đôi,2023
+FIN01,Tài chính (Chương trình Chất lượng cao),A01,32.6,Môn Toán nhân đôi,2023
+FIN01,Tài chính (Chương trình Chất lượng cao),D01,32.6,Môn Toán nhân đôi,2023
+FIN01,Tài chính (Chương trình Chất lượng cao),D07,32.6,Môn Toán nhân đôi,2023
+ACT01,Kế toán (Chương trình Chất lượng cao),A00,32.75,Môn Toán nhân đôi,2023
+ACT01,Kế toán (Chương trình Chất lượng cao),A01,32.75,Môn Toán nhân đôi,2023
+ACT01,Kế toán (Chương trình Chất lượng cao),D01,32.75,Môn Toán nhân đôi,2023
+ACT01,Kế toán (Chương trình Chất lượng cao),D07,32.75,Môn Toán nhân đôi,2023
+BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),A00,32.65,Môn Toán nhân đôi,2023
+BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),A01,32.65,Môn Toán nhân đôi,2023
+BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),D01,32.65,Môn Toán nhân đôi,2023
+BUS01,Quản trị kinh doanh (Chương trình Chất lượng cao),D07,32.65,Môn Toán nhân đôi,2023
+BANKK02,Ngân hàng,A00,25.7,,2023
+BANKK02,Ngân hàng,A01,25.7,,2023
+BANKK02,Ngân hàng,D01,25.7,,2023
+BANKK02,Ngân hàng,D07,25.7,,2023
+BANKK03,Ngân hàng số,A00,25.65,,2023
+BANKK03,Ngân hàng số,A01,25.65,,2023
+BANKK03,Ngân hàng số,D01,25.65,,2023
+BANKK03,Ngân hàng số,D07,25.65,,2023
+FIN02,Tài chính,A00,26.05,,2023
+FIN02,Tài chính,A01,26.05,,2023
+FIN02,Tài chính,D01,26.05,,2023
+FIN02,Tài chính,D07,26.05,,2023
+FIN03,Công nghệ tài chính,A00,25.5,,2023
+FIN03,Công nghệ tài chính,A01,25.5,,2023
+FIN03,Công nghệ tài chính,D01,25.5,,2023
+FIN03,Công nghệ tài chính,D07,25.5,,2023
+ACT02,Kế toán,A00,25.8,,2023
+ACT02,Kế toán,A01,25.8,,2023
+ACT02,Kế toán,D01,25.8,,2023
+ACT02,Kế toán,D07,25.8,,2023
+BUS02,Quản trị kinh doanh,A01,26.04,,2023
+BUS02,Quản trị kinh doanh,D01,26.04,,2023
+BUS02,Quản trị kinh doanh,D07,26.04,,2023
+BUS02,Quản trị kinh doanh,D09,26.04,,2023
+BUS03,Quản trị du lịch,A01,24.5,,2023
+BUS03,Quản trị du lịch,D01,24.5,,2023
+BUS03,Quản trị du lịch,D07,24.5,,2023
+BUS03,Quản trị du lịch,D09,24.5,,2023
+IB01,Kính doanh quốc tế,A01,26.4,,2023
+IB01,Kính doanh quốc tế,D01,26.4,,2023
+IB01,Kính doanh quốc tế,D07,26.4,,2023
+IB01,Kính doanh quốc tế,D09,26.4,,2023
+IB02,Logistics và quản lý chuỗi cung ứng,A01,26.45,,2023
+IB02,Logistics và quản lý chuỗi cung ứng,D01,26.45,,2023
+IB02,Logistics và quản lý chuỗi cung ứng,D07,26.45,,2023
+IB02,Logistics và quản lý chuỗi cung ứng,D09,26.45,,2023
+LAW01,Luật kinh tế,A00,25.52,,2023
+LAW01,Luật kinh tế,A01,25.52,,2023
+LAW01,Luật kinh tế,D01,25.52,,2023
+LAW01,Luật kinh tế,D07,25.52,,2023
+LAW02,Luật kinh tế,C00,26.5,,2023
+LAW02,Luật kinh tế,C03,26.5,,2023
+LAW02,Luật kinh tế,D14,26.5,,2023
+LAW02,Luật kinh tế,D15,26.5,,2023
+ECON01,Kinh tế,A01,25.65,,2023
+ECON01,Kinh tế,D01,25.65,,2023
+ECON01,Kinh tế,D07,25.65,,2023
+ECON01,Kinh tế,D09,25.65,,2023
+FL01,Ngôn ngữ Anh,A01,24.9,,2023
+FL01,Ngôn ngữ Anh,D01,24.9,,2023
+FL01,Ngôn ngữ Anh,D07,24.9,,2023
+FL01,Ngôn ngữ Anh,D09,24.9,,2023
+MIS01,Hệ thống thông tin quản lý,A00,25.55,,2023
+MIS01,Hệ thống thông tin quản lý,A01,25.55,,2023
+MIS01,Hệ thống thông tin quản lý,D01,25.55,,2023
+MIS01,Hệ thống thông tin quản lý,D07,25.55,,2023
+IT01,Công nghệ thông tin,A00,25.1,,2023
+IT01,Công nghệ thông tin,A01,25.1,,2023
+IT01,Công nghệ thông tin,D01,25.1,,2023
+IT01,Công nghệ thông tin,D07,25.1,,2023
+ACT03,"Kế toán ( Liên kết ĐH Sunderland, Anh. Cấp song bằng)",A00,23.9,,2023
+ACT03,"Kế toán ( Liên kết ĐH Sunderland, Anh. Cấp song bằng)",A01,23.9,,2023
+ACT03,"Kế toán ( Liên kết ĐH Sunderland, Anh. Cấp song bằng)",D01,23.9,,2023
+ACT03,"Kế toán ( Liên kết ĐH Sunderland, Anh. Cấp song bằng)",D07,23.9,,2023
+BANK04,"Tài chính - Ngân hàng ( Liên kết ĐH Sunderland, Anh Quốc. Cấp song bằng)",A00,23.55,,2023
+BANK04,"Tài chính - Ngân hàng ( Liên kết ĐH Sunderland, Anh Quốc. Cấp song bằng)",A01,23.55,,2023
+BANK04,"Tài chính - Ngân hàng ( Liên kết ĐH Sunderland, Anh Quốc. Cấp song bằng)",D01,23.55,,2023
+BANK04,"Tài chính - Ngân hàng ( Liên kết ĐH Sunderland, Anh Quốc. Cấp song bằng)",D07,23.55,,2023
+BUS04,"Quản trị kinh doanh (Liên kết ĐH CityU, Hoa Kỳ.Cấp song bằng)",A00,23.8,,2023
+BUS04,"Quản trị kinh doanh (Liên kết ĐH CityU, Hoa Kỳ.Cấp song bằng)",A01,23.8,,2023
+BUS04,"Quản trị kinh doanh (Liên kết ĐH CityU, Hoa Kỳ.Cấp song bằng)",D01,23.8,,2023
+BUS04,"Quản trị kinh doanh (Liên kết ĐH CityU, Hoa Kỳ.Cấp song bằng)",D07,23.8,,2023
+BUS05,"Marketing số ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A00,23.5,,2023
+BUS05,"Marketing số ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A01,23.5,,2023
+BUS05,"Marketing số ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D01,23.5,,2023
+BUS05,"Marketing số ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D07,23.5,,2023
+IB03,"Kính doanh quốc tế ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A00,22,,2023
+IB03,"Kính doanh quốc tế ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A01,22,,2023
+IB03,"Kính doanh quốc tế ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D01,22,,2023
+IB03,"Kính doanh quốc tế ( liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D07,22,,2023
+BANK05,"Ngân hàng và Tài chính quốc tế (liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A00,21.6,,2023
+BANK05,"Ngân hàng và Tài chính quốc tế (liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",A01,21.6,,2023
+BANK05,"Ngân hàng và Tài chính quốc tế (liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D01,21.6,,2023
+BANK05,"Ngân hàng và Tài chính quốc tế (liên kết ĐH Coventry, Anh Quốc. Cấp song bằng)",D07,21.6,,2023

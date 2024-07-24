@@ -1,0 +1,183 @@
+major_code,major_name,subject_group,point,note,year
+7140201,Giáo dục mầm non,M00,20,,2020
+7140201,Giáo dục mầm non,M07,20,,2020
+7140201,Giáo dục mầm non,M01,20,,2020
+7140201,Giáo dục mầm non,M09,20,,2020
+7210205,Thanh Nhạc,N00,15,,2020
+7210208,Piano,N00,15,,2020
+7210234,"Diễn viên kịch, điện ảnh-truyền hình",N05,15,,2020
+7210235,Đạo diện điện ảnh - Truyền hình,N05,15,,2020
+7210236,Quay phim,N05,15,,2020
+7210403,Thiết kế đồ họa,V00,15,,2020
+7210403,Thiết kế đồ họa,V01,15,,2020
+7210403,Thiết kế đồ họa,H00,15,,2020
+7210403,Thiết kế đồ họa,H01,15,,2020
+7220101,Tiếng Việt và Văn hóa Việt Nam,C00,15,,2020
+7220101,Tiếng Việt và Văn hóa Việt Nam,D01,15,,2020
+7220101,Tiếng Việt và Văn hóa Việt Nam,D14,15,,2020
+7220101,Tiếng Việt và Văn hóa Việt Nam,D15,15,,2020
+7220201,Ngôn ngữ Anh,C00,15,,2020
+7220201,Ngôn ngữ Anh,D01,15,,2020
+7220201,Ngôn ngữ Anh,D14,15,,2020
+7220201,Ngôn ngữ Anh,D15,15,,2020
+7220204,Ngôn ngữ Trung Quốc,C00,15,,2020
+7220204,Ngôn ngữ Trung Quốc,D01,15,,2020
+7220204,Ngôn ngữ Trung Quốc,D14,15,,2020
+7220204,Ngôn ngữ Trung Quốc,D15,15,,2020
+7310206,Quan hệ quốc tế,A01,15,,2020
+7310206,Quan hệ quốc tế,D01,15,,2020
+7310206,Quan hệ quốc tế,D14,15,,2020
+7310206,Quan hệ quốc tế,D15,15,,2020
+7310401,Tâm lý học,B00,15,,2020
+7310401,Tâm lý học,C00,15,,2020
+7310401,Tâm lý học,D01,15,,2020
+7310401,Tâm lý học,D14,15,,2020
+7310608,Đông Phương học,C00,15,,2020
+7310608,Đông Phương học,D01,15,,2020
+7310608,Đông Phương học,D14,15,,2020
+7310608,Đông Phương học,D15,15,,2020
+7310630,Việt Nam học,C00,15,,2020
+7310630,Việt Nam học,D01,15,,2020
+7310630,Việt Nam học,D14,15,,2020
+7310630,Việt Nam học,D15,15,,2020
+7320104,Truyền thông đa phương tiện,A01,15,,2020
+7320104,Truyền thông đa phương tiện,C00,15,,2020
+7320104,Truyền thông đa phương tiện,D01,15,,2020
+7320104,Truyền thông đa phương tiện,D15,15,,2020
+7320108,Quan hệ công chúng,A01,15,,2020
+7320108,Quan hệ công chúng,C00,15,,2020
+7320108,Quan hệ công chúng,D01,15,,2020
+7320108,Quan hệ công chúng,D14,15,,2020
+7340101,Quản trị kinh doanh,A00,15,,2020
+7340101,Quản trị kinh doanh,A01,15,,2020
+7340101,Quản trị kinh doanh,D01,15,,2020
+7340101,Quản trị kinh doanh,D07,15,,2020
+7340115,Marketing,A00,15,,2020
+7340115,Marketing,A01,15,,2020
+7340115,Marketing,D01,15,,2020
+7340115,Marketing,D07,15,,2020
+7340120,Kinh doanh quốc tế,A00,15,,2020
+7340120,Kinh doanh quốc tế,A01,15,,2020
+7340120,Kinh doanh quốc tế,D01,15,,2020
+7340120,Kinh doanh quốc tế,D07,15,,2020
+7340122,Thương mại điện tử,A00,15,,2020
+7340122,Thương mại điện tử,A01,15,,2020
+7340122,Thương mại điện tử,D01,15,,2020
+7340122,Thương mại điện tử,D07,15,,2020
+7340201,Tài chính - ngân hàng,A00,15,,2020
+7340201,Tài chính - ngân hàng,A01,15,,2020
+7340201,Tài chính - ngân hàng,D01,15,,2020
+7340201,Tài chính - ngân hàng,D07,15,,2020
+7340301,Kế toán,A00,15,,2020
+7340301,Kế toán,A01,15,,2020
+7340301,Kế toán,D01,15,,2020
+7340301,Kế toán,D07,15,,2020
+7340404,Quản trị Nhân lực,A00,15,,2020
+7340404,Quản trị Nhân lực,A01,15,,2020
+7340404,Quản trị Nhân lực,D01,15,,2020
+7340404,Quản trị Nhân lực,D07,15,,2020
+7380107,Luật Kinh tế,A00,15,,2020
+7380107,Luật Kinh tế,A01,15,,2020
+7380107,Luật Kinh tế,C00,15,,2020
+7380107,Luật Kinh tế,D01,15,,2020
+7420201,Công nghệ sinh học,A00,15,,2020
+7420201,Công nghệ sinh học,B00,15,,2020
+7420201,Công nghệ sinh học,D07,15,,2020
+7420201,Công nghệ sinh học,D08,15,,2020
+7480102,Mạng máy tính và truyền thông dữ liệu,A00,15,,2020
+7480102,Mạng máy tính và truyền thông dữ liệu,A01,15,,2020
+7480102,Mạng máy tính và truyền thông dữ liệu,D01,15,,2020
+7480102,Mạng máy tính và truyền thông dữ liệu,D07,15,,2020
+7480103,Kỹ thuật phần mềm,A00,15,,2020
+7480103,Kỹ thuật phần mềm,A01,15,,2020
+7480103,Kỹ thuật phần mềm,D01,15,,2020
+7480103,Kỹ thuật phần mềm,D07,15,,2020
+7480201,Công nghệ thông tin,A00,15,,2020
+7480201,Công nghệ thông tin,A01,15,,2020
+7480201,Công nghệ thông tin,D01,15,,2020
+7480201,Công nghệ thông tin,D07,15,,2020
+7510203,Công nghệ kỹ thuật cơ điện tử,A00,15,,2020
+7510203,Công nghệ kỹ thuật cơ điện tử,A01,15,,2020
+7510203,Công nghệ kỹ thuật cơ điện tử,D01,15,,2020
+7510203,Công nghệ kỹ thuật cơ điện tử,D07,15,,2020
+7510205,Công nghệ kỹ thuật Ô tô,A00,15,,2020
+7510205,Công nghệ kỹ thuật Ô tô,A01,15,,2020
+7510205,Công nghệ kỹ thuật Ô tô,D01,15,,2020
+7510205,Công nghệ kỹ thuật Ô tô,D07,15,,2020
+7510301,"Kỹ thuật điện, điện tử",A00,15,,2020
+7510301,"Kỹ thuật điện, điện tử",A01,15,,2020
+7510301,"Kỹ thuật điện, điện tử",D01,15,,2020
+7510301,"Kỹ thuật điện, điện tử",D07,15,,2020
+7510401,Công nghệ kỹ thuật Hóa học,A00,15,,2020
+7510401,Công nghệ kỹ thuật Hóa học,A01,15,,2020
+7510401,Công nghệ kỹ thuật Hóa học,B00,15,,2020
+7510401,Công nghệ kỹ thuật Hóa học,D90,15,,2020
+7510605,Logistic và quản lý chuỗi cung ứng,A00,15,,2020
+7510605,Logistic và quản lý chuỗi cung ứng,A01,15,,2020
+7510605,Logistic và quản lý chuỗi cung ứng,D01,15,,2020
+7510605,Logistic và quản lý chuỗi cung ứng,D07,15,,2020
+7520118,Kỹ thuật hệ thống Công nghiệp,A00,15,,2020
+7520118,Kỹ thuật hệ thống Công nghiệp,A01,15,,2020
+7520118,Kỹ thuật hệ thống Công nghiệp,D01,15,,2020
+7520118,Kỹ thuật hệ thống Công nghiệp,D07,15,,2020
+7520212,Kỹ thuật Y sinh,A00,15,,2020
+7520212,Kỹ thuật Y sinh,A01,15,,2020
+7520212,Kỹ thuật Y sinh,A02,15,,2020
+7520212,Kỹ thuật Y sinh,B00,15,,2020
+7520403,Vật lý y khoa,A00,15,,2020
+7520403,Vật lý y khoa,A01,15,,2020
+7520403,Vật lý y khoa,A02,15,,2020
+7520403,Vật lý y khoa,B00,15,,2020
+7540101,Công nghệ thực phẩm,A00,15,,2020
+7540101,Công nghệ thực phẩm,A01,15,,2020
+7540101,Công nghệ thực phẩm,B00,15,,2020
+7540101,Công nghệ thực phẩm,D90,15,,2020
+7580101,Kiến trúc,H00,15,,2020
+7580101,Kiến trúc,H01,15,,2020
+7580101,Kiến trúc,H02,15,,2020
+7580101,Kiến trúc,H07,15,,2020
+7580108,Thiết kế Nội thất,V00,15,,2020
+7580108,Thiết kế Nội thất,V01,15,,2020
+7580108,Thiết kế Nội thất,H00,15,,2020
+7580108,Thiết kế Nội thất,H01,15,,2020
+7580201,Kỹ thuật xây dựng,A00,15,,2020
+7580201,Kỹ thuật xây dựng,A01,15,,2020
+7580201,Kỹ thuật xây dựng,D01,15,,2020
+7580201,Kỹ thuật xây dựng,D07,15,,2020
+7580205,Kỹ thuật xây dựng công trình giao thông,A00,15,,2020
+7580205,Kỹ thuật xây dựng công trình giao thông,A01,15,,2020
+7580205,Kỹ thuật xây dựng công trình giao thông,D01,15,,2020
+7580205,Kỹ thuật xây dựng công trình giao thông,D07,15,,2020
+7720101,Y khoa,B00,23,,2020
+7720110,Y học dự phòng,B00,19,,2020
+7720201,Dược học,A00,21,,2020
+7720201,Dược học,A01,21,,2020
+7720201,Dược học,B00,21,,2020
+7720201,Dược học,D07,21,,2020
+7720301,Điều dưỡng,A00,19,,2020
+7720301,Điều dưỡng,A01,19,,2020
+7720301,Điều dưỡng,B00,19,,2020
+7720301,Điều dưỡng,D07,19,,2020
+7720601,Kỹ thuật xét nghiệm y học,A00,19,,2020
+7720601,Kỹ thuật xét nghiệm y học,B00,19,,2020
+7720601,Kỹ thuật xét nghiệm y học,D07,19,,2020
+7720601,Kỹ thuật xét nghiệm y học,D08,19,,2020
+7720603,Kỹ thuật phục hồi chức năng,B00,19,,2020
+7720802,Quản lý bệnh viện,B00,15,,2020
+7720802,Quản lý bệnh viện,B03,15,,2020
+7810103,Du lịch,C00,15,,2020
+7810103,Du lịch,D01,15,,2020
+7810103,Du lịch,D14,15,,2020
+7810103,Du lịch,D15,15,,2020
+7810201,Quản trị khách sạn,A00,15,,2020
+7810201,Quản trị khách sạn,A01,15,,2020
+7810201,Quản trị khách sạn,C00,15,,2020
+7810201,Quản trị khách sạn,D01,15,,2020
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,A00,15,,2020
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,A01,15,,2020
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,C00,15,,2020
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D01,15,,2020
+7850101,Quản lý tài nguyên và môi trường,A00,15,,2020
+7850101,Quản lý tài nguyên và môi trường,A01,15,,2020
+7850101,Quản lý tài nguyên và môi trường,B00,15,,2020
+7850101,Quản lý tài nguyên và môi trường,D90,15,,2020

@@ -1,0 +1,123 @@
+major_code,major_name,subject_group,point,note,year
+7210404,Thiết kế thời trang,A00,23.84,,2023
+7210404,Thiết kế thời trang,A01,23.84,,2023
+7210404,Thiết kế thời trang,D01,23.84,,2023
+7210404,Thiết kế thời trang,D14,23.84,,2023
+7220201,Ngôn ngữ Anh,D01,24.3,,2023
+7220204,Ngôn ngữ Trung Quốc,D01,24.86,,2023
+7220204,Ngôn ngữ Trung Quốc,D04,24.86,,2023
+7220209,Ngôn ngữ Nhật,D01,24.02,,2023
+7220209,Ngôn ngữ Nhật,D06,24.02,,2023
+7220210,Ngôn ngữ Hàn Quốc,D01,24.92,,2023
+7220210,Ngôn ngữ Hàn Quốc,DD2,24.92,,2023
+7310612,Trung Quốc học,D04,23.77,,2023
+7310612,Trung Quốc học,D01,23.77,,2023
+7229020,Ngôn ngữ học,C00,22.25,,2023
+7229020,Ngôn ngữ học,D01,22.25,,2023
+7229020,Ngôn ngữ học,D14,22.25,,2023
+7310104,Kinh tế đầu tư,A00,24.45,,2023
+7310104,Kinh tế đầu tư,A01,24.45,,2023
+7310104,Kinh tế đầu tư,D01,24.45,,2023
+7320113,Công nghệ đa phương tiện,A00,24.63,,2023
+7320113,Công nghệ đa phương tiện,A01,24.63,,2023
+7340101,Quản trị kinh doanh,A00,24.21,,2023
+7340101,Quản trị kinh doanh,A01,24.21,,2023
+7340101,Quản trị kinh doanh,D01,24.21,,2023
+7340115,Marketing,A00,25.24,,2023
+7340115,Marketing,A01,25.24,,2023
+7340115,Marketing,D01,25.24,,2023
+7340125,Phân tích dữ liệu kinh doanh,A00,23.67,,2023
+7340125,Phân tích dữ liệu kinh doanh,A01,23.67,,2023
+7340125,Phân tích dữ liệu kinh doanh,D01,23.67,,2023
+7340201,Tài chính - Ngân hàng,A00,24.4,,2023
+7340201,Tài chính - Ngân hàng,A01,24.4,,2023
+7340201,Tài chính - Ngân hàng,D01,24.4,,2023
+7340301,Kế toán,A00,23.8,,2023
+7340301,Kế toán,A01,23.8,,2023
+7340301,Kế toán,D01,23.8,,2023
+7340302,Kiểm toán,A00,24.03,,2023
+7340302,Kiểm toán,A01,24.03,,2023
+7340302,Kiểm toán,D01,24.03,,2023
+7340404,Quản trị nhân lực,A00,24.59,,2023
+7340404,Quản trị nhân lực,A01,24.59,,2023
+7340404,Quản trị nhân lực,D01,24.59,,2023
+7340406,Quản trị văn phòng,A00,23.09,,2023
+7340406,Quản trị văn phòng,A01,23.09,,2023
+7340406,Quản trị văn phòng,D01,23.09,,2023
+7480101,Khoa học máy tính,A00,25.05,,2023
+7480101,Khoa học máy tính,A01,25.05,,2023
+7480102,Mạng máy tính và truyền thông dữ liệu,A00,24.17,,2023
+7480102,Mạng máy tính và truyền thông dữ liệu,A01,24.17,,2023
+7480103,Kỹ thuật phần mềm,A00,24.54,,2023
+7480103,Kỹ thuật phần mềm,A01,24.54,,2023
+7480104,Hệ thống thông tin,A00,24.31,,2023
+7480104,Hệ thống thông tin,A01,24.31,,2023
+7480108,Công nghệ kỹ thuật máy tính,A00,24.3,,2023
+7480108,Công nghệ kỹ thuật máy tính,A01,24.3,,2023
+7480201,Công nghệ thông tin,A00,25.19,,2023
+7480201,Công nghệ thông tin,A01,25.19,,2023
+7510201,Công nghệ kỹ thuật cơ khí,A00,23.42,,2023
+7510201,Công nghệ kỹ thuật cơ khí,A01,23.42,,2023
+7510203,Công nghệ kỹ thuật cơ điện tử,A00,24.63,,2023
+7510203,Công nghệ kỹ thuật cơ điện tử,A01,24.63,,2023
+7510205,Công nghệ kỹ thuật ô tô,A00,24.26,,2023
+7510205,Công nghệ kỹ thuật ô tô,A01,24.26,,2023
+7510206,Công nghệ kỹ thuật nhiệt,A00,22.15,,2023
+7510206,Công nghệ kỹ thuật nhiệt,A01,22.15,,2023
+7510209,Robot và trí tuệ nhân tạo,A00,24.54,,2023
+7510209,Robot và trí tuệ nhân tạo,A01,24.54,,2023
+7510301,"Công nghệ kỹ thuật điện, điện tử",A00,23.81,,2023
+7510301,"Công nghệ kỹ thuật điện, điện tử",A01,23.81,,2023
+75190071,Năng lượng tái tạo,A00,19,,2023
+75190071,Năng lượng tái tạo,A01,19,,2023
+7510302,Công nghệ kỹ thuật điện tử -viễn thông,A00,23.65,,2023
+7510302,Công nghệ kỹ thuật điện tử -viễn thông,A01,23.65,,2023
+75103021,Công nghệ kỹ thuật điện tử y sinh,A00,19,,2023
+75103021,Công nghệ kỹ thuật điện tử y sinh,A01,19,,2023
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A00,25.47,,2023
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A01,25.47,,2023
+75103031,Kỹ thuật sản xuất thông minh,A00,20,,2023
+75103031,Kỹ thuật sản xuất thông minh,A01,20,,2023
+7510401,Công nghệ kỹ thuật hoá học,A00,20.35,,2023
+7510401,Công nghệ kỹ thuật hoá học,B00,20.35,,2023
+7510401,Công nghệ kỹ thuật hoá học,D07,20.35,,2023
+7510406,Công nghệ kỹ thuật môi trường,A00,19,,2023
+7510406,Công nghệ kỹ thuật môi trường,B00,19,,2023
+7510406,Công nghệ kỹ thuật môi trường,D07,19,,2023
+7510605,Logistics và quản lý chuỗi cung ứng,A00,25.52,,2023
+7510605,Logistics và quản lý chuỗi cung ứng,A01,25.52,,2023
+7510605,Logistics và quản lý chuỗi cung ứng,D01,25.52,,2023
+7519003,Công nghệ kỹ thuật khuôn mẫu,A00,21.9,,2023
+7519003,Công nghệ kỹ thuật khuôn mẫu,A01,21.9,,2023
+7510213,Thiết kế cơ khí và kiểu dáng công nghiệp,A00,20.75,,2023
+7510213,Thiết kế cơ khí và kiểu dáng công nghiệp,A01,20.75,,2023
+7510204,Công nghệ kỹ thuật cơ điện tử ô tô,A00,24.17,,2023
+7510204,Công nghệ kỹ thuật cơ điện tử ô tô,A01,24.17,,2023
+7520118,Kỹ thuật hệ thống công nghiệp,A00,22.65,,2023
+7520118,Kỹ thuật hệ thống công nghiệp,A01,22.65,,2023
+7520116,Kỹ thuật cơ khí động lực,A00,21.55,,2023
+7520116,Kỹ thuật cơ khí động lực,A01,21.55,,2023
+7540101,Công nghệ thực phẩm,A00,23.51,,2023
+7540101,Công nghệ thực phẩm,B00,23.51,,2023
+7540101,Công nghệ thực phẩm,D07,23.51,,2023
+7540203,"Công nghệ vật liệu dệt, may",A00,20.1,,2023
+7540203,"Công nghệ vật liệu dệt, may",A01,20.1,,2023
+7540203,"Công nghệ vật liệu dệt, may",D01,20.1,,2023
+7540204,"Công nghệ dệt, may",A00,21.8,,2023
+7540204,"Công nghệ dệt, may",A01,21.8,,2023
+7540204,"Công nghệ dệt, may",D01,21.8,,2023
+7720203,Hóa dược,A00,19.45,,2023
+7720203,Hóa dược,B00,19.45,,2023
+7720203,Hóa dược,D07,19.45,,2023
+7810101,Du lịch,C00,24.2,,2023
+7810101,Du lịch,D01,24.2,,2023
+7810101,Du lịch,D14,24.2,,2023
+7810103,Quản trị dịch vụ du lịch và lữ hành,A01,23.62,,2023
+7810103,Quản trị dịch vụ du lịch và lữ hành,D01,23.62,,2023
+7810103,Quản trị dịch vụ du lịch và lữ hành,D14,23.62,,2023
+7810201,Quản trị khách sạn,A01,23.56,,2023
+7810201,Quản trị khách sạn,D01,23.56,,2023
+7810201,Quản trị khách sạn,D14,23.56,,2023
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,A01,22.8,,2023
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D01,22.8,,2023
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D14,22.8,,2023

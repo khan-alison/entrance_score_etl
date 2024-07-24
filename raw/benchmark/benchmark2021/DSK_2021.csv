@@ -1,0 +1,77 @@
+major_code,major_name,subject_group,point,note,year
+7140214,Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin),A00,21.7,TO >= 7.8; TTNV <= 8,2021
+7140214,Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin),A01,21.7,TO >= 7.8; TTNV <= 8,2021
+7140214,Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin),C01,21.7,TO >= 7.8; TTNV <= 8,2021
+7140214,Sư phạm Kỹ thuật công nghiệp (chuyên ngành Công nghệ thông tin),D01,21.7,TO >= 7.8; TTNV <= 8,2021
+7480201,Công nghệ thông tin,A00,23.79,TO >= 7.6; TTNV <= 12,2021
+7480201,Công nghệ thông tin,A01,23.79,TO >= 7.6; TTNV <= 12,2021
+7480201,Công nghệ thông tin,C01,23.79,TO >= 7.6; TTNV <= 12,2021
+7480201,Công nghệ thông tin,D01,23.79,TO >= 7.6; TTNV <= 12,2021
+7510101,Công nghệ kỹ thuật kiến trúc,V00,19.3,TO >= 6.2; TTNV <= 1,2021
+7510101,Công nghệ kỹ thuật kiến trúc,V01,19.3,TO >= 6.2; TTNV <= 1,2021
+7510101,Công nghệ kỹ thuật kiến trúc,A00,19.3,TO >= 6.2; TTNV <= 1,2021
+7510101,Công nghệ kỹ thuật kiến trúc,A01,19.3,TO >= 6.2; TTNV <= 1,2021
+7510103,Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng & Công nghiệp),A00,15,TO >= 4; TTNV <= 1,2021
+7510103,Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng & Công nghiệp),A01,15,TO >= 4; TTNV <= 1,2021
+7510103,Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng & Công nghiệp),C01,15,TO >= 4; TTNV <= 1,2021
+7510103,Công nghệ kỹ thuật xây dựng (chuyên ngành Xây dựng dân dụng & Công nghiệp),D01,15,TO >= 4; TTNV <= 1,2021
+7510104,Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường),A00,15.35,TO >= 6.6; TTNV <= 4,2021
+7510104,Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường),A01,15.35,TO >= 6.6; TTNV <= 4,2021
+7510104,Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường),C01,15.35,TO >= 6.6; TTNV <= 4,2021
+7510104,Công nghệ kỹ thuật giao thông (chuyên ngành Xây dựng cầu đường),D01,15.35,TO >= 6.6; TTNV <= 4,2021
+7510201,Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo),A00,19.7,TO >= 6.8; TTNV <= 2,2021
+7510201,Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo),A01,19.7,TO >= 6.8; TTNV <= 2,2021
+7510201,Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo),C01,19.7,TO >= 6.8; TTNV <= 2,2021
+7510201,Công nghệ kỹ thuật cơ khí (chuyên ngành Cơ khí chế tạo),D01,19.7,TO >= 6.8; TTNV <= 2,2021
+7510203,Công nghệ kỹ thuật cơ điện tử,A00,21.2,TO >= 7.2; TTNV <= 1,2021
+7510203,Công nghệ kỹ thuật cơ điện tử,A01,21.2,TO >= 7.2; TTNV <= 1,2021
+7510203,Công nghệ kỹ thuật cơ điện tử,C01,21.2,TO >= 7.2; TTNV <= 1,2021
+7510203,Công nghệ kỹ thuật cơ điện tử,D01,21.2,TO >= 7.2; TTNV <= 1,2021
+7510205,Công nghệ kỹ thuật ô tô,A00,22.65,TO >= 7.4; TTNV <= 2,2021
+7510205,Công nghệ kỹ thuật ô tô,A01,22.65,TO >= 7.4; TTNV <= 2,2021
+7510205,Công nghệ kỹ thuật ô tô,C01,22.65,TO >= 7.4; TTNV <= 2,2021
+7510205,Công nghệ kỹ thuật ô tô,D01,22.65,TO >= 7.4; TTNV <= 2,2021
+7510205KT,Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum),A00,16.55,TO >= 5.6; TTNV <= 1,2021
+7510205KT,Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum),A01,16.55,TO >= 5.6; TTNV <= 1,2021
+7510205KT,Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum),C01,16.55,TO >= 5.6; TTNV <= 1,2021
+7510205KT,Công nghệ kỹ thuật ô tô (đào tạo 2 năm đầu tại Kon Tum),D01,16.55,TO >= 5.6; TTNV <= 1,2021
+7510206,Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh),A00,18.65,TO >= 6.4; TTNV <= 1,2021
+7510206,Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh),A01,18.65,TO >= 6.4; TTNV <= 1,2021
+7510206,Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh),C01,18.65,TO >= 6.4; TTNV <= 1,2021
+7510206,Công nghệ kỹ thuật nhiệt (chuyên ngành Nhiệt - Điện lạnh),D01,18.65,TO >= 6.4; TTNV <= 1,2021
+7510301A,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Kỹ thuật điện tử)",A00,20.7,TO >= 6.2; TTNV <= 1,2021
+7510301A,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Kỹ thuật điện tử)",A01,20.7,TO >= 6.2; TTNV <= 1,2021
+7510301A,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Kỹ thuật điện tử)",C01,20.7,TO >= 6.2; TTNV <= 1,2021
+7510301A,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Kỹ thuật điện tử)",D01,20.7,TO >= 6.2; TTNV <= 1,2021
+7510301B,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Hệ thống cung cấp điện)",A00,15.5,TO >= 6; TTNV <= 2,2021
+7510301B,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Hệ thống cung cấp điện)",A01,15.5,TO >= 6; TTNV <= 2,2021
+7510301B,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Hệ thống cung cấp điện)",C01,15.5,TO >= 6; TTNV <= 2,2021
+7510301B,"Công nghệ kỹ thuật điện, điện tử (chuyên ngành Hệ thống cung cấp điện)",D01,15.5,TO >= 6; TTNV <= 2,2021
+7510302,Công nghệ kỹ thuật điện tử - viễn thông,A00,21.3,TO >= 6.4; TTNV <= 5,2021
+7510302,Công nghệ kỹ thuật điện tử - viễn thông,A01,21.3,TO >= 6.4; TTNV <= 5,2021
+7510302,Công nghệ kỹ thuật điện tử - viễn thông,C01,21.3,TO >= 6.4; TTNV <= 5,2021
+7510302,Công nghệ kỹ thuật điện tử - viễn thông,D01,21.3,TO >= 6.4; TTNV <= 5,2021
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A00,22.5,TO >= 8; TTNV <= 1,2021
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,A01,22.5,TO >= 8; TTNV <= 1,2021
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,C01,22.5,TO >= 8; TTNV <= 1,2021
+7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,D01,22.5,TO >= 8; TTNV <= 1,2021
+7510401,Công nghệ kỹ thuật hóa học,A00,19.65,TO >= 5.4; TTNV <= 3,2021
+7510401,Công nghệ kỹ thuật hóa học,A01,19.65,TO >= 5.4; TTNV <= 3,2021
+7510401,Công nghệ kỹ thuật hóa học,B00,19.65,TO >= 5.4; TTNV <= 3,2021
+7510401,Công nghệ kỹ thuật hóa học,D01,19.65,TO >= 5.4; TTNV <= 3,2021
+7510402,Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới),A00,15.45,TO >= 6.2; TTNV <= 2,2021
+7510402,Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới),A01,15.45,TO >= 6.2; TTNV <= 2,2021
+7510402,Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới),B00,15.45,TO >= 6.2; TTNV <= 2,2021
+7510402,Công nghệ vật liệu (chuyên ngành Hóa học Vật liệu mới),D01,15.45,TO >= 6.2; TTNV <= 2,2021
+7510406,Công nghệ kỹ thuật môi trường,A00,15.7,TO >= 6.2; TTNV <= 8,2021
+7510406,Công nghệ kỹ thuật môi trường,A01,15.7,TO >= 6.2; TTNV <= 8,2021
+7510406,Công nghệ kỹ thuật môi trường,B00,15.7,TO >= 6.2; TTNV <= 8,2021
+7510406,Công nghệ kỹ thuật môi trường,D01,15.7,TO >= 6.2; TTNV <= 8,2021
+7540102,Kỹ thuật thực phẩm (gồm 2 chuyên ngành Kỹ thuật thực phẩm và Kỹ thuật sinh học thực phẩm),A00,16.45,TO >= 6.2; TTNV <= 1,2021
+7540102,Kỹ thuật thực phẩm (gồm 2 chuyên ngành Kỹ thuật thực phẩm và Kỹ thuật sinh học thực phẩm),A01,16.45,TO >= 6.2; TTNV <= 1,2021
+7540102,Kỹ thuật thực phẩm (gồm 2 chuyên ngành Kỹ thuật thực phẩm và Kỹ thuật sinh học thực phẩm),B00,16.45,TO >= 6.2; TTNV <= 1,2021
+7540102,Kỹ thuật thực phẩm (gồm 2 chuyên ngành Kỹ thuật thực phẩm và Kỹ thuật sinh học thực phẩm),D01,16.45,TO >= 6.2; TTNV <= 1,2021
+7580210,Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị),A00,15.4,TO >= 6.2; TTNV <= 2,2021
+7580210,Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị),A01,15.4,TO >= 6.2; TTNV <= 2,2021
+7580210,Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị),C01,15.4,TO >= 6.2; TTNV <= 2,2021
+7580210,Kỹ thuật cơ sở hạ tầng (chuyên ngành Xây dựng hạ tầng đô thị),D01,15.4,TO >= 6.2; TTNV <= 2,2021

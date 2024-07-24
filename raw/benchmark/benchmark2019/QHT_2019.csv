@@ -1,0 +1,110 @@
+major_code,major_name,subject_group,point,note,year
+QHT01,Toán học,A00,33.4,Toán nhân 2,2019
+QHT01,Toán học,A01,33.4,Toán nhân 2,2019
+QHT01,Toán học,D07,33.4,Toán nhân 2,2019
+QHT01,Toán học,D08,33.4,Toán nhân 2,2019
+QHT02,Toán tin,A00,34.25,Toán nhân 2,2019
+QHT02,Toán tin,A01,34.25,Toán nhân 2,2019
+QHT02,Toán tin,D07,34.25,Toán nhân 2,2019
+QHT02,Toán tin,D08,34.25,Toán nhân 2,2019
+QHT98,Khoa học máy tính và thông tin,A00,34.7,Toán nhân 2,2019
+QHT98,Khoa học máy tính và thông tin,A01,34.7,Toán nhân 2,2019
+QHT98,Khoa học máy tính và thông tin,D07,34.7,Toán nhân 2,2019
+QHT98,Khoa học máy tính và thông tin,D08,34.7,Toán nhân 2,2019
+QHT93,Khoa học dữ liệu,A00,34.85,Toán nhân 2,2019
+QHT93,Khoa học dữ liệu,A01,34.85,Toán nhân 2,2019
+QHT93,Khoa học dữ liệu,D07,34.85,Toán nhân 2,2019
+QHT93,Khoa học dữ liệu,D08,34.85,Toán nhân 2,2019
+QHT03,Vật lý học,A00,24.2,,2019
+QHT03,Vật lý học,A01,24.2,,2019
+QHT03,Vật lý học,B00,24.2,,2019
+QHT03,Vật lý học,C01,24.2,,2019
+QHT04,Khoa học vật liệu,A00,22.75,,2019
+QHT04,Khoa học vật liệu,A01,22.75,,2019
+QHT04,Khoa học vật liệu,B00,22.75,,2019
+QHT04,Khoa học vật liệu,C01,22.75,,2019
+QHT05,Công nghệ kỹ thuật hạt nhân,A00,21.3,,2019
+QHT05,Công nghệ kỹ thuật hạt nhân,A01,21.3,,2019
+QHT05,Công nghệ kỹ thuật hạt nhân,B00,21.3,,2019
+QHT05,Công nghệ kỹ thuật hạt nhân,C01,21.3,,2019
+QHT94,Kỹ thuật điện tử và tin học,A00,25.65,,2019
+QHT94,Kỹ thuật điện tử và tin học,A01,25.65,,2019
+QHT94,Kỹ thuật điện tử và tin học,B00,25.65,,2019
+QHT94,Kỹ thuật điện tử và tin học,C01,25.65,,2019
+QHT06,Hoá học,A00,23.65,,2019
+QHT06,Hoá học,B00,23.65,,2019
+QHT06,Hoá học,D07,23.65,,2019
+QHT07,Công nghệ kỹ thuật hoá học,A00,23.25,,2019
+QHT07,Công nghệ kỹ thuật hoá học,B00,23.25,,2019
+QHT07,Công nghệ kỹ thuật hoá học,D07,23.25,,2019
+QHT43,Hoá dược,A00,24.6,,2019
+QHT43,Hoá dược,B00,24.6,,2019
+QHT43,Hoá dược,D07,24.6,,2019
+QHT08,Sinh học,A00,23,,2019
+QHT08,Sinh học,A02,23,,2019
+QHT08,Sinh học,B00,23,,2019
+QHT08,Sinh học,B08,23,,2019
+QHT81,Sinh dược học,A00,23,,2019
+QHT81,Sinh dược học,A02,23,,2019
+QHT81,Sinh dược học,B00,23,,2019
+QHT81,Sinh dược học,B08,23,,2019
+QHT09,Công nghệ sinh học,A00,24.05,,2019
+QHT09,Công nghệ sinh học,A02,24.05,,2019
+QHT09,Công nghệ sinh học,B00,24.05,,2019
+QHT09,Công nghệ sinh học,B08,24.05,,2019
+QHT10,Địa lý tự nhiên,A00,20.3,,2019
+QHT10,Địa lý tự nhiên,A01,20.3,,2019
+QHT10,Địa lý tự nhiên,B00,20.3,,2019
+QHT10,Địa lý tự nhiên,D10,20.3,,2019
+QHT91,Khoa học thông tin địa không gian,A00,20.4,,2019
+QHT91,Khoa học thông tin địa không gian,A01,20.4,,2019
+QHT91,Khoa học thông tin địa không gian,B00,20.4,,2019
+QHT91,Khoa học thông tin địa không gian,D10,20.4,,2019
+QHT12,Quản lý đất đai,A00,20.9,,2019
+QHT12,Quản lý đất đai,A01,20.9,,2019
+QHT12,Quản lý đất đai,B00,20.9,,2019
+QHT12,Quản lý đất đai,D10,20.9,,2019
+QHT95,Quản lý phát triển đô thị và bất động sản,A00,22.45,,2019
+QHT95,Quản lý phát triển đô thị và bất động sản,A01,22.45,,2019
+QHT95,Quản lý phát triển đô thị và bất động sản,B00,22.45,,2019
+QHT95,Quản lý phát triển đô thị và bất động sản,D10,22.45,,2019
+QHT13,Khoa học môi trường,A00,20,,2019
+QHT13,Khoa học môi trường,A01,20,,2019
+QHT13,Khoa học môi trường,B00,20,,2019
+QHT13,Khoa học môi trường,D07,20,,2019
+QHT82,"Môi trường, Sức khỏe và An toàn",A00,20,,2019
+QHT82,"Môi trường, Sức khỏe và An toàn",A01,20,,2019
+QHT82,"Môi trường, Sức khỏe và An toàn",B00,20,,2019
+QHT82,"Môi trường, Sức khỏe và An toàn",D07,20,,2019
+QHT15,Công nghệ kỹ thuật môi trường,A00,20,,2019
+QHT15,Công nghệ kỹ thuật môi trường,A01,20,,2019
+QHT15,Công nghệ kỹ thuật môi trường,B00,20,,2019
+QHT15,Công nghệ kỹ thuật môi trường,D07,20,,2019
+QHT96,Khoa học và công nghệ thực phẩm*,A00,24.35,,2019
+QHT96,Khoa học và công nghệ thực phẩm*,A01,24.35,,2019
+QHT96,Khoa học và công nghệ thực phẩm*,B00,24.35,,2019
+QHT96,Khoa học và công nghệ thực phẩm*,D07,24.35,,2019
+QHT16,Khí tượng và khí hậu học,A00,20,,2019
+QHT16,Khí tượng và khí hậu học,A01,20,,2019
+QHT16,Khí tượng và khí hậu học,B00,20,,2019
+QHT16,Khí tượng và khí hậu học,D07,20,,2019
+QHT17,Hải dương học,A00,20,,2019
+QHT17,Hải dương học,A01,20,,2019
+QHT17,Hải dương học,B00,20,,2019
+QHT17,Hải dương học,D07,20,,2019
+QHT92,Tài nguyên và môi trường nước*,A00,20,,2019
+QHT92,Tài nguyên và môi trường nước*,A01,20,,2019
+QHT92,Tài nguyên và môi trường nước*,B00,20,,2019
+QHT92,Tài nguyên và môi trường nước*,D07,20,,2019
+QHT18,Địa chất học,A00,20,,2019
+QHT18,Địa chất học,A01,20,,2019
+QHT18,Địa chất học,B00,20,,2019
+QHT18,Địa chất học,D07,20,,2019
+QHT20,Quản lý tài nguyên và môi trường,A00,21,,2019
+QHT20,Quản lý tài nguyên và môi trường,A01,21,,2019
+QHT20,Quản lý tài nguyên và môi trường,B00,21,,2019
+QHT20,Quản lý tài nguyên và môi trường,D07,21,,2019
+QHT97,Công nghệ quan trắc và giám sát tài nguyên môi trường,A00,20,,2019
+QHT97,Công nghệ quan trắc và giám sát tài nguyên môi trường,A01,20,,2019
+QHT97,Công nghệ quan trắc và giám sát tài nguyên môi trường,B00,20,,2019
+QHT97,Công nghệ quan trắc và giám sát tài nguyên môi trường,D07,20,,2019

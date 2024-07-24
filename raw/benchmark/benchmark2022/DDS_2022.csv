@@ -1,0 +1,95 @@
+major_code,major_name,subject_group,point,note,year
+7140201,Giáo dục Mầm non,M09,20,NK2 >= 8.25;TTNV <= 1,2022
+7140201,Giáo dục Mầm non,M01,20,NK2 >= 8.25;TTNV <= 1,2022
+7140202,Giáo dục Tiểu học,A00,25.02,TTNV <= 11,2022
+7140202,Giáo dục Tiểu học,C00,25.02,TTNV <= 11,2022
+7140202,Giáo dục Tiểu học,D01,25.02,TTNV <= 11,2022
+7140202,Giáo dục Tiểu học,B00,25.02,TTNV <= 11,2022
+7140204,Giáo dục Công dân,C00,25.33,VA >= 8;TTNV <= 6,2022
+7140204,Giáo dục Công dân,C20,25.33,VA >= 8;TTNV <= 6,2022
+7140204,Giáo dục Công dân,D66,25.33,VA >= 8;TTNV <= 6,2022
+7140204,Giáo dục Công dân,C19,25.33,VA >= 8;TTNV <= 6,2022
+7140205,Giáo dục Chính trị,C00,25.8,VA >= 8.25;TTNV <= 3,2022
+7140205,Giáo dục Chính trị,C02,25.8,VA >= 8.25;TTNV <= 3,2022
+7140205,Giáo dục Chính trị,D66,25.8,VA >= 8.25;TTNV <= 3,2022
+7140205,Giáo dục Chính trị,C19,25.8,VA >= 8.25;TTNV <= 3,2022
+7140206,Giáo dục thể chất,T00,20.63,NK6 >= 7.25;TTNV <= 1,2022
+7140206,Giáo dục thể chất,T02,20.63,NK6 >= 7.25;TTNV <= 1,2022
+7140206,Giáo dục thể chất,T03,20.63,NK6 >= 7.25;TTNV <= 1,2022
+7140206,Giáo dục thể chất,T05,20.63,NK6 >= 7.25;TTNV <= 1,2022
+7140209,Sư phạm Toán học,A00,24.96,TO >= 8.4;TTNV <= 3,2022
+7140209,Sư phạm Toán học,A01,24.96,TO >= 8.4;TTNV <= 3,2022
+7140210,Sư phạm Tin học,A00,21.4,TO >= 6.4;TTNV <= 5,2022
+7140210,Sư phạm Tin học,A01,21.4,TO >= 6.4;TTNV <= 5,2022
+7140211,Sư phạm Vật lý,A00,24.7,LI >= 7.5;TTNV <= 7,2022
+7140211,Sư phạm Vật lý,A01,24.7,LI >= 7.5;TTNV <= 7,2022
+7140211,Sư phạm Vật lý,A02,24.7,LI >= 7.5;TTNV <= 7,2022
+7140212,Sư phạm Hoá học,A00,25.02,HO >= 8.25;TTNV <= 7,2022
+7140212,Sư phạm Hoá học,D07,25.02,HO >= 8.25;TTNV <= 7,2022
+7140212,Sư phạm Hoá học,B00,25.02,HO >= 8.25;TTNV <= 7,2022
+7140213,Sư phạm Sinh học,B00,22.35,SI >= 5.75;TTNV <= 5,2022
+7140213,Sư phạm Sinh học,B08,22.35,SI >= 5.75;TTNV <= 5,2022
+7140213,Sư phạm Sinh học,B03,22.35,SI >= 5.75;TTNV <= 5,2022
+7140217,Sư phạm Ngữ văn,C00,25.92,VA >= 8;TTNV <= 3,2022
+7140217,Sư phạm Ngữ văn,C14,25.92,VA >= 8;TTNV <= 3,2022
+7140217,Sư phạm Ngữ văn,D66,25.92,VA >= 8;TTNV <= 3,2022
+7140218,Sư phạm Lịch sử,C00,27.58,SU >= 8.75;TTNV <= 9,2022
+7140218,Sư phạm Lịch sử,C19,27.58,SU >= 8.75;TTNV <= 9,2022
+7140219,Sư phạm Địa lý,C00,24.63,DI >= 7.75;TTNV <= 3,2022
+7140219,Sư phạm Địa lý,D15,24.63,DI >= 7.75;TTNV <= 3,2022
+7140221,Sư phạm Âm nhạc,N00,22.2,NK4 >= 6.5;TTNV <= 1,2022
+7140221,Sư phạm Âm nhạc,N01,22.2,NK4 >= 6.5;TTNV <= 1,2022
+7140247,Sư phạm Khoa học tự nhiên,A00,23.5,TO >= 8;TTNV <= 1,2022
+7140247,Sư phạm Khoa học tự nhiên,A02,23.5,TO >= 8;TTNV <= 1,2022
+7140247,Sư phạm Khoa học tự nhiên,B00,23.5,TO >= 8;TTNV <= 1,2022
+7140249,Sư phạm Lịch sử- Địa lý,C00,25.8,VA >= 7.75;TTNV <= 12,2022
+7140249,Sư phạm Lịch sử- Địa lý,C19,25.8,VA >= 7.75;TTNV <= 12,2022
+7140249,Sư phạm Lịch sử- Địa lý,C20,25.8,VA >= 7.75;TTNV <= 12,2022
+7140250,Sư phạm Tin học và Công nghệ Tiểu học,A00,22.3,TTNV <= 5,2022
+7140250,Sư phạm Tin học và Công nghệ Tiểu học,C00,22.3,TTNV <= 5,2022
+7140250,Sư phạm Tin học và Công nghệ Tiểu học,D01,22.3,TTNV <= 5,2022
+7140250,Sư phạm Tin học và Công nghệ Tiểu học,B00,22.3,TTNV <= 5,2022
+7229010,Lịch sử (chuyên ngành Quan hệ quốc tế),C00,22.25,SU >= 4.5;TTNV <= 3,2022
+7229010,Lịch sử (chuyên ngành Quan hệ quốc tế),C19,22.25,SU >= 4.5;TTNV <= 3,2022
+7229010,Lịch sử (chuyên ngành Quan hệ quốc tế),D14,22.25,SU >= 4.5;TTNV <= 3,2022
+7229030,Văn học,C00,23.34,VA >= 6.25;TTNV <= 10,2022
+7229030,Văn học,D15,23.34,VA >= 6.25;TTNV <= 10,2022
+7229030,Văn học,C14,23.34,VA >= 6.25;TTNV <= 10,2022
+7229030,Văn học,D66,23.34,VA >= 6.25;TTNV <= 10,2022
+7229040,Văn hoá học,C00,21.35,VA >= 7;TTNV <= 6,2022
+7229040,Văn hoá học,D15,21.35,VA >= 7;TTNV <= 6,2022
+7229040,Văn hoá học,C14,21.35,VA >= 7;TTNV <= 6,2022
+7229040,Văn hoá học,D66,21.35,VA >= 7;TTNV <= 6,2022
+7310401,Tâm lý học,C00,23,TTNV <= 9,2022
+7310401,Tâm lý học,D01,23,TTNV <= 9,2022
+7310401,Tâm lý học,B00,23,TTNV <= 9,2022
+7310401,Tâm lý học,D66,23,TTNV <= 9,2022
+7310501,Địa lý học (chuyên ngành  Địa lý du lịch),C00,19.5,DI >= 6.5;TTNV <= 4,2022
+7310501,Địa lý học (chuyên ngành  Địa lý du lịch),D15,19.5,DI >= 6.5;TTNV <= 4,2022
+7310630,Việt Nam học (chuyên ngành Văn hóa du lịch),C00,20.5,VA >= 6.75;TTNV <= 2,2022
+7310630,Việt Nam học (chuyên ngành Văn hóa du lịch),D15,20.5,VA >= 6.75;TTNV <= 2,2022
+7310630,Việt Nam học (chuyên ngành Văn hóa du lịch),D14,20.5,VA >= 6.75;TTNV <= 2,2022
+7320101,Báo chí,C00,24.77,VA >= 9;TTNV <= 6,2022
+7320101,Báo chí,D15,24.77,VA >= 9;TTNV <= 6,2022
+7320101,Báo chí,C14,24.77,VA >= 9;TTNV <= 6,2022
+7320101,Báo chí,D66,24.77,VA >= 9;TTNV <= 6,2022
+7420201,Công nghệ Sinh học,B00,16.85,TO >= 5;TTNV <= 2,2022
+7420201,Công nghệ Sinh học,B08,16.85,TO >= 5;TTNV <= 2,2022
+7420201,Công nghệ Sinh học,A01,16.85,TO >= 5;TTNV <= 2,2022
+7420201,Công nghệ Sinh học,B03,16.85,TO >= 5;TTNV <= 2,2022
+7440112,Hóa học,A00,17.8,HO >= 6.75;TTNV <= 2,2022
+7440112,Hóa học,D07,17.8,HO >= 6.75;TTNV <= 2,2022
+7440112,Hóa học,B00,17.8,HO >= 6.75;TTNV <= 2,2022
+7480201,Công nghệ thông tin,A00,21.15,TO >= 7.4;TTNV <= 1,2022
+7480201,Công nghệ thông tin,A01,21.15,TO >= 7.4;TTNV <= 1,2022
+7520401,Vật lý kỹ thuật,A00,15.35,LI >= 4.5;TTNV <= 3,2022
+7520401,Vật lý kỹ thuật,A01,15.35,LI >= 4.5;TTNV <= 3,2022
+7520401,Vật lý kỹ thuật,A02,15.35,LI >= 4.5;TTNV <= 3,2022
+7760101,Công tác xã hội,C00,21.75,VA >= 5;TTNV <= 3,2022
+7760101,Công tác xã hội,D01,21.75,VA >= 5;TTNV <= 3,2022
+7760101,Công tác xã hội,C19,21.75,VA >= 5;TTNV <= 3,2022
+7760101,Công tác xã hội,C20,21.75,VA >= 5;TTNV <= 3,2022
+7850101,Quản lý tài nguyên và môi trường,B00,15.9,TO >= 5.4;TTNV <= 2,2022
+7850101,Quản lý tài nguyên và môi trường,B08,15.9,TO >= 5.4;TTNV <= 2,2022
+7850101,Quản lý tài nguyên và môi trường,A01,15.9,TO >= 5.4;TTNV <= 2,2022
+7850101,Quản lý tài nguyên và môi trường,B03,15.9,TO >= 5.4;TTNV <= 2,2022
