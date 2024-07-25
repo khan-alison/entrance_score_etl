@@ -35,7 +35,9 @@ class BaseManagementCSVData(BaseManagementData):
 
   def save_data(self, data):
     file_path = self.os.path.join(self.base_path, self.file_name)
+    print(f'file{file_path}')
     directory = os.path.dirname(file_path)
+    print(f'directory{directory}')
     self.ensure_dir_exist(directory)
     df = self.pd.DataFrame(data)
     df.to_csv(file_path, index=False)
