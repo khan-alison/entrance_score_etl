@@ -12,7 +12,6 @@ class R2GExecutor(BaseR2GExecutor):
     @staticmethod
     def write_to_parquet(df, write_mode, partition_col, target_path, process_date):
         df = df.withColumn(partition_col, F.lit(process_date))
-        df.show()
         if df.count() > 0:
             df.write.partitionBy(partition_col).mode(
                 write_mode).parquet(target_path)

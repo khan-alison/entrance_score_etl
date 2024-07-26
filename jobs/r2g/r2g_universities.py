@@ -13,7 +13,7 @@ class R2GUniversitiesExecutor(R2GExecutor):
     def execute(self):
         df = self.read_dfs()
         self.write_to_parquet(df, write_mode='overwrite',
-                              partition_col=self.partition_col, target_path=self.target_path, process_date="2024-07-25")
+                              partition_col=self.partition_col, target_path=self.target_path, process_date="2024-07-26")
 
     def _transform(self, df):
         pass

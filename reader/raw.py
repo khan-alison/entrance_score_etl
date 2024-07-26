@@ -19,5 +19,4 @@ class RawCSVReader(RawReader):
 
     def read_table(self):
         path_of_table = self.path_to_raw + self.table_name
-        print(f'path_of_table{path_of_table}')
         return self.spark.read.options(header=True, inferSchema=True).csv(path_of_table).cache()
