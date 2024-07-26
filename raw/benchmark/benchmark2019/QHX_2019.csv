@@ -1,1 +1,118 @@
-
+major_code,major_name,subject_group,point,note,year
+QHX01,Báo chí,A01,25.5,,2019
+QHX01,Báo chí,C00,28.5,,2019
+QHX01,Báo chí,D01,26,,2019
+QHX01,Báo chí,D04,26,,2019
+QHX01,Báo chí,D78,26.5,,2019
+QHX02,Chính trị học,A01,23,,2019
+QHX02,Chính trị học,C00,26.25,,2019
+QHX02,Chính trị học,D01,24,,2019
+QHX02,Chính trị học,D04,24.7,,2019
+QHX02,Chính trị học,D78,24.6,,2019
+QHX03,Công tác xã hội,A01,23.75,,2019
+QHX03,Công tác xã hội,C00,26.3,,2019
+QHX03,Công tác xã hội,D01,24.8,,2019
+QHX03,Công tác xã hội,D04,24,,2019
+QHX03,Công tác xã hội,D78,25,,2019
+QHX04,Đông Nam Á học,A01,22.75,,2019
+QHX04,Đông Nam Á học,D01,24.75,,2019
+QHX04,Đông Nam Á học,D78,25.1,,2019
+QHX05,Đông phương học,C00,28.5,,2019
+QHX05,Đông phương học,D01,25.55,,2019
+QHX05,Đông phương học,D04,25.5,,2019
+QHX05,Đông phương học,D78,26.5,,2019
+QHX26,Hàn Quốc học,A01,24.75,,2019
+QHX26,Hàn Quốc học,C00,28.25,,2019
+QHX26,Hàn Quốc học,D01,26.25,,2019
+QHX26,Hàn Quốc học,DD2,24.5,,2019
+QHX26,Hàn Quốc học,D78,26.5,,2019
+QHX06,Hán Nôm,C00,25.75,,2019
+QHX06,Hán Nôm,D01,24.15,,2019
+QHX06,Hán Nôm,D04,25,,2019
+QHX06,Hán Nôm,D78,24.5,,2019
+QHX07,Khoa học quản lý,A01,23.5,,2019
+QHX07,Khoa học quản lý,C00,27,,2019
+QHX07,Khoa học quản lý,D01,25.25,,2019
+QHX07,Khoa học quản lý,D04,25.25,,2019
+QHX07,Khoa học quản lý,D78,25.25,,2019
+QHX08,Lịch sử,C00,27,,2019
+QHX08,Lịch sử,D01,24.25,,2019
+QHX08,Lịch sử,D04,23.4,,2019
+QHX08,Lịch sử,D78,24.47,,2019
+QHX09,Lưu trữ học,A01,22,,2019
+QHX09,Lưu trữ học,C00,23.8,,2019
+QHX09,Lưu trữ học,D01,24,,2019
+QHX09,Lưu trữ học,D78,24,,2019
+QHX09,Lưu trữ học,D04,22.75,,2019
+QHX10,Ngôn ngữ học,C00,26.4,,2019
+QHX10,Ngôn ngữ học,D01,25.25,,2019
+QHX10,Ngôn ngữ học,D04,24.75,,2019
+QHX10,Ngôn ngữ học,D78,25.75,,2019
+QHX11,Nhân học,A01,22,,2019
+QHX11,Nhân học,C00,25.25,,2019
+QHX11,Nhân học,D01,24.15,,2019
+QHX11,Nhân học,D04,22,,2019
+QHX11,Nhân học,D78,24.2,,2019
+QHX12,Nhật Bản học,D01,25.5,,2019
+QHX12,Nhật Bản học,D06,24,,2019
+QHX12,Nhật Bản học,D78,25.75,,2019
+QHX13,Quan hệ công chúng,C00,28.78,,2019
+QHX13,Quan hệ công chúng,D01,26.75,,2019
+QHX13,Quan hệ công chúng,D04,26.2,,2019
+QHX13,Quan hệ công chúng,D78,27.5,,2019
+QHX14,Quản lý thông tin,A01,24.5,,2019
+QHX14,Quản lý thông tin,C00,26.8,,2019
+QHX14,Quản lý thông tin,D01,25.25,,2019
+QHX14,Quản lý thông tin,D78,25,,2019
+QHX15,Quản trị dịch vụ du lịch và lữ hành,A01,25.5,,2019
+QHX15,Quản trị dịch vụ du lịch và lữ hành,D01,26,,2019
+QHX15,Quản trị dịch vụ du lịch và lữ hành,D78,26.4,,2019
+QHX16,Quản trị khách sạn,A01,25,,2019
+QHX16,Quản trị khách sạn,D01,25.5,,2019
+QHX16,Quản trị khách sạn,D78,25.5,,2019
+QHX17,Quản trị văn phòng,A01,25,,2019
+QHX17,Quản trị văn phòng,C00,27,,2019
+QHX17,Quản trị văn phòng,D01,25.25,,2019
+QHX17,Quản trị văn phòng,D04,25.5,,2019
+QHX17,Quản trị văn phòng,D78,25.75,,2019
+QHX18,Quốc tế học,A01,24,,2019
+QHX18,Quốc tế học,C00,27.7,,2019
+QHX18,Quốc tế học,D01,25.4,,2019
+QHX18,Quốc tế học,D04,25.25,,2019
+QHX18,Quốc tế học,D78,25.75,,2019
+QHX19,Tâm lý học,A01,27,,2019
+QHX19,Tâm lý học,C00,28,,2019
+QHX19,Tâm lý học,D01,27,,2019
+QHX19,Tâm lý học,D04,25.5,,2019
+QHX19,Tâm lý học,D78,27.25,,2019
+QHX20,Thông tin - Thư viện,A01,23,,2019
+QHX20,Thông tin - Thư viện,C00,25,,2019
+QHX20,Thông tin - Thư viện,D01,23.8,,2019
+QHX20,Thông tin - Thư viện,D78,24.25,,2019
+QHX21,Tôn giáo học,A01,22,,2019
+QHX21,Tôn giáo học,C00,25,,2019
+QHX21,Tôn giáo học,D01,23.5,,2019
+QHX21,Tôn giáo học,D04,22.6,,2019
+QHX21,Tôn giáo học,D78,23.5,,2019
+QHX22,Triết học,A01,22.5,,2019
+QHX22,Triết học,C00,25.3,,2019
+QHX22,Triết học,D01,24,,2019
+QHX22,Triết học,D04,23.4,,2019
+QHX22,Triết học,D78,24.5,,2019
+QHX27,Văn hóa học,C00,26.3,,2019
+QHX27,Văn hóa học,D01,24.6,,2019
+QHX27,Văn hóa học,D78,24.6,,2019
+QHX27,Văn hóa học,D04,23.5,,2019
+QHX23,Văn học,C00,26.8,,2019
+QHX23,Văn học,D01,25.75,,2019
+QHX23,Văn học,D04,24.5,,2019
+QHX23,Văn học,D78,25.75,,2019
+QHX24,Việt Nam học,C00,26,,2019
+QHX24,Việt Nam học,D01,24.5,,2019
+QHX24,Việt Nam học,D04,23,,2019
+QHX24,Việt Nam học,D78,24.75,,2019
+QHX25,Xã hội học,A01,24,,2019
+QHX25,Xã hội học,C00,26.5,,2019
+QHX25,Xã hội học,D01,25.2,,2019
+QHX25,Xã hội học,D04,24,,2019
+QHX25,Xã hội học,D78,25.7,,2019

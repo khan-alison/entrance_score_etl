@@ -1,1 +1,41 @@
-
+major_code,major_name,subject_group,point,note,year
+7720101,Y khoa,B00,25,"TO>=7,60; TTNV <=1",2019
+7720101,Y khoa,B08,25,"TO>=7,60; TTNV <=1",2019
+7720101,Y khoa,A00,25,"TO>=7,60; TTNV <=1",2019
+7720101,Y khoa,D07,25,"TO>=7,60; TTNV <=1",2019
+7720201,Dược học,B00,23.75,"TO>=6,80; TTNV <=1",2019
+7720201,Dược học,B08,23.75,"TO>=6,80; TTNV <=1",2019
+7720201,Dược học,A00,23.75,"TO>=6,80; TTNV <=1",2019
+7720201,Dược học,D07,23.75,"TO>=6,80; TTNV <=1",2019
+7720301A,Điều dưỡng đa khoa,B00,19,"TO>=6,00; TTNV <=1",2019
+7720301A,Điều dưỡng đa khoa,B08,19,"TO>=6,00; TTNV <=1",2019
+7720301A,Điều dưỡng đa khoa,A00,19,"TO>=6,00; TTNV <=1",2019
+7720301A,Điều dưỡng đa khoa,D07,19,"TO>=6,00; TTNV <=1",2019
+7720301B,Điều dưỡng nha khoa,B00,19,"TO>=6,40; TTNV <=2",2019
+7720301B,Điều dưỡng nha khoa,B08,19,"TO>=6,40; TTNV <=2",2019
+7720301B,Điều dưỡng nha khoa,A00,19,"TO>=6,40; TTNV <=2",2019
+7720301B,Điều dưỡng nha khoa,D07,19,"TO>=6,40; TTNV <=2",2019
+7720301C,Điều dưỡng gây mê hồi sức,B00,19,"TO>=5,80; TTNV <=4",2019
+7720301C,Điều dưỡng gây mê hồi sức,B08,19,"TO>=5,80; TTNV <=4",2019
+7720301C,Điều dưỡng gây mê hồi sức,A00,19,"TO>=5,80; TTNV <=4",2019
+7720301C,Điều dưỡng gây mê hồi sức,D07,19,"TO>=5,80; TTNV <=4",2019
+7720301D,Điều dưỡng hộ sinh,B00,19,"TO>=6,60; TTNV <=6",2019
+7720301D,Điều dưỡng hộ sinh,B08,19,"TO>=6,60; TTNV <=6",2019
+7720301D,Điều dưỡng hộ sinh,A00,19,"TO>=6,60; TTNV <=6",2019
+7720301D,Điều dưỡng hộ sinh,D07,19,"TO>=6,60; TTNV <=6",2019
+7720601,Kỹ thuật xét nghiệm y học,B00,19,"TO>=6,80; TTNV <=5",2019
+7720601,Kỹ thuật xét nghiệm y học,B08,19,"TO>=6,80; TTNV <=5",2019
+7720601,Kỹ thuật xét nghiệm y học,A00,19,"TO>=6,80; TTNV <=5",2019
+7720601,Kỹ thuật xét nghiệm y học,D07,19,"TO>=6,80; TTNV <=5",2019
+7720602,Kỹ thuật hình ảnh y học,B00,19,"TO>=7,00; TTNV <=3",2019
+7720602,Kỹ thuật hình ảnh y học,B08,19,"TO>=7,00; TTNV <=3",2019
+7720602,Kỹ thuật hình ảnh y học,A00,19,"TO>=7,00; TTNV <=3",2019
+7720602,Kỹ thuật hình ảnh y học,D07,19,"TO>=7,00; TTNV <=3",2019
+7720603,Kỹ thuật phục hồi chức năng,B00,19,"TO>=5,00; TTNV <=4",2019
+7720603,Kỹ thuật phục hồi chức năng,B08,19,"TO>=5,00; TTNV <=4",2019
+7720603,Kỹ thuật phục hồi chức năng,A00,19,"TO>=5,00; TTNV <=4",2019
+7720603,Kỹ thuật phục hồi chức năng,D07,19,"TO>=5,00; TTNV <=4",2019
+7720701,Y tế công cộng,B00,15,"TO>=5,60; TTNV <=2",2019
+7720701,Y tế công cộng,B08,15,"TO>=5,60; TTNV <=2",2019
+7720701,Y tế công cộng,A00,15,"TO>=5,60; TTNV <=2",2019
+7720701,Y tế công cộng,D07,15,"TO>=5,60; TTNV <=2",2019

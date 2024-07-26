@@ -7,13 +7,13 @@ class R2GUniversitiesExecutor(R2GExecutor):
     def __init__(self, spark, reader, target_path):
         self.spark = spark
         self.reader = reader
-        self.partition_col = "partition_date"
+        self.partition_cols =["university_code"]
         self.target_path = target_path
 
     def execute(self):
         df = self.read_dfs()
         self.write_to_parquet(df, write_mode='overwrite',
-                              partition_col=self.partition_col, target_path=self.target_path, process_date="2024-07-26")
+                              partition_cols=self.partition_cols, target_path=self.target_path, process_date="2024-07-26")
 
     def _transform(self, df):
         pass

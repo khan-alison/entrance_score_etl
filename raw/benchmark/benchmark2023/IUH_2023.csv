@@ -7,18 +7,9 @@ major_code,major_name,subject_group,point,note,year
 7340115,Marketing,C01,25,,2023
 7340115,Marketing,D01,25,,2023
 7340115,Marketing,D96,25,,2023
-7810103,"Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành;
- - Quản trị khách sạn; 
-- Quản trị nhà hàng và dịch vụ ăn uống,",A01,22,,2023
-7810103,"Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành;
- - Quản trị khách sạn; 
-- Quản trị nhà hàng và dịch vụ ăn uống,",C01,22,,2023
-7810103,"Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành;
- - Quản trị khách sạn; 
-- Quản trị nhà hàng và dịch vụ ăn uống,",D01,22,,2023
-7810103,"Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành;
- - Quản trị khách sạn; 
-- Quản trị nhà hàng và dịch vụ ăn uống,",D96,22,,2023
+7810103,- Quản trị khách sạn;,D96,22,,2023
+7810103,"Quản trị nhà hàng và dịch vụ ăn uống,",D96,22,,2023
+7810103,Quản trị dịch vụ du lịch và lữ hành gồm 03 chuyên ngành: - Quản trị dịch vụ du lịch và lữ hành;,D96,22,,2023
 7340120,Kinh doanh quốc tế,A01,26,,2023
 7340120,Kinh doanh quốc tế,C01,26,,2023
 7340120,Kinh doanh quốc tế,D01,26,,2023

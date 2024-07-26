@@ -8,13 +8,13 @@ class R2GBenchmarkExecutor(R2GExecutor):
     def __init__(self, spark, reader, target_path, process_date):
         self.spark = spark
         self.reader = reader
-        self.partition_col = "major_code"
+        self.partition_cols = ["major_code"]
         self.target_path = target_path
         self.process_date = process_date
 
     def execute(self):
         df = self.read_dfs()
-        self.write_to_parquet(df, write_mode='overwrite', partition_col=self.partition_col,
+        self.write_to_parquet(df, write_mode='overwrite', partition_cols=self.partition_cols,
                               target_path=self.target_path, process_date=self.process_date)
 
     def _transform(self, df):

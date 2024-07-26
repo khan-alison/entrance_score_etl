@@ -1,1 +1,150 @@
-
+major_code,major_name,subject_group,point,note,year
+51140201,Giáo dục Mầm non (Cao đẳng),M00,17,,2023
+7140201,Giáo dục Mầm non (Đại học),M00,19,,2023
+7140215,Sư phạm Kỹ thuật nông nghiệp,A00,19,,2023
+7140215,Sư phạm Kỹ thuật nông nghiệp,A01,19,,2023
+7140215,Sư phạm Kỹ thuật nông nghiệp,B00,19,,2023
+7140215,Sư phạm Kỹ thuật nông nghiệp,D08,19,,2023
+7220201,Ngôn ngữ Anh,A01,23,,2023
+7220201,Ngôn ngữ Anh,D01,23,,2023
+7220201,Ngôn ngữ Anh,D14,23,,2023
+7220201,Ngôn ngữ Anh,D15,23,,2023
+7310101,Kinh tế,A00,22.25,,2023
+7310101,Kinh tế,A01,22.25,,2023
+7310101,Kinh tế,D01,22.25,,2023
+7340101,Quản trị kinh doanh,A00,22.25,,2023
+7340101,Quản trị kinh doanh,A01,22.25,,2023
+7340101,Quản trị kinh doanh,D01,22.25,,2023
+7340101C,Quản trị kinh doanh (Chất lượng cao),A00,22.25,,2023
+7340101C,Quản trị kinh doanh (Chất lượng cao),A01,22.25,,2023
+7340101C,Quản trị kinh doanh (Chất lượng cao),D01,22.25,,2023
+7340116,Bất động sản,A00,20,,2023
+7340116,Bất động sản,A01,20,,2023
+7340116,Bất động sản,A04,20,,2023
+7340116,Bất động sản,D01,20,,2023
+7340301,Kế toán,A00,23,,2023
+7340301,Kế toán,A01,23,,2023
+7340301,Kế toán,D01,23,,2023
+7420201,Công nghệ sinh học,A00,22.25,,2023
+7420201,Công nghệ sinh học,A02,22.25,,2023
+7420201,Công nghệ sinh học,B00,22.25,,2023
+7420201C,Công nghệ sinh học (Chất lượng cao),A01,22.25,,2023
+7420201C,Công nghệ sinh học (Chất lượng cao),D07,22.25,,2023
+7420201C,Công nghệ sinh học (Chất lượng cao),D08,22.25,,2023
+7440301,Khoa học môi trường,A00,16,,2023
+7440301,Khoa học môi trường,A01,16,,2023
+7440301,Khoa học môi trường,B00,16,,2023
+7440301,Khoa học môi trường,D07,16,,2023
+7480104,Hệ thống thông tin,A00,21.5,,2023
+7480104,Hệ thống thông tin,A01,21.5,,2023
+7480104,Hệ thống thông tin,D07,21.5,,2023
+7480201,Công nghệ thông tin,A00,23,,2023
+7480201,Công nghệ thông tin,A01,23,,2023
+7480201,Công nghệ thông tin,D07,23,,2023
+7510201,Công nghệ kỹ thuật cơ khí,A00,21.5,,2023
+7510201,Công nghệ kỹ thuật cơ khí,A01,21.5,,2023
+7510201,Công nghệ kỹ thuật cơ khí,D07,21.5,,2023
+7510201C,Công nghệ kỹ thuật cơ khí (Chất lượng cao),A00,21.5,,2023
+7510201C,Công nghệ kỹ thuật cơ khí (Chất lượng cao),A01,21.5,,2023
+7510201C,Công nghệ kỹ thuật cơ khí (Chất lượng cao),D07,21.5,,2023
+7510203,Công nghệ kỹ thuật cơ - điện tử,A00,22.5,,2023
+7510203,Công nghệ kỹ thuật cơ - điện tử,A01,22.5,,2023
+7510203,Công nghệ kỹ thuật cơ - điện tử,D07,22.5,,2023
+7510205,Công nghệ kỹ thuật ô tô,A00,23,,2023
+7510205,Công nghệ kỹ thuật ô tô,A01,23,,2023
+7510205,Công nghệ kỹ thuật ô tô,D07,23,,2023
+7510206,Công nghệ kỹ thuật nhiệt,A00,18.5,,2023
+7510206,Công nghệ kỹ thuật nhiệt,A01,18.5,,2023
+7510206,Công nghệ kỹ thuật nhiệt,D07,18.5,,2023
+7510401,Công nghệ kỹ thuật hóa học,A00,23,,2023
+7510401,Công nghệ kỹ thuật hóa học,A01,23,,2023
+7510401,Công nghệ kỹ thuật hóa học,B00,23,,2023
+7510401,Công nghệ kỹ thuật hóa học,D07,23,,2023
+7519007,Công nghệ Kỹ thuật năng lượng tái tạo,A00,16,,2023
+7519007,Công nghệ Kỹ thuật năng lượng tái tạo,A01,16,,2023
+7519007,Công nghệ Kỹ thuật năng lượng tái tạo,D07,16,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,A00,22,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,A01,22,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,D07,22,,2023
+7520320,Kỹ thuật môi trường,A00,16,,2023
+7520320,Kỹ thuật môi trường,A01,16,,2023
+7520320,Kỹ thuật môi trường,B00,16,,2023
+7520320,Kỹ thuật môi trường,D07,16,,2023
+7540101,Công nghệ thực phẩm,A00,21.25,,2023
+7540101,Công nghệ thực phẩm,A01,21.25,,2023
+7540101,Công nghệ thực phẩm,B00,21.25,,2023
+7540101,Công nghệ thực phẩm,D08,21.25,,2023
+7540101C,Công nghệ thực phẩm (Chất lượng cao),A00,21.25,,2023
+7540101C,Công nghệ thực phẩm (Chất lượng cao),A01,21.25,,2023
+7540101C,Công nghệ thực phẩm (Chất lượng cao),B00,21.25,,2023
+7540101C,Công nghệ thực phẩm (Chất lượng cao),D08,21.25,,2023
+7540101T,Công nghệ thực phẩm (Chương trinh tiên tiến),A00,21.25,,2023
+7540101T,Công nghệ thực phẩm (Chương trinh tiên tiến),A01,21.25,,2023
+7540101T,Công nghệ thực phẩm (Chương trinh tiên tiến),B00,21.25,,2023
+7540101T,Công nghệ thực phẩm (Chương trinh tiên tiến),D08,21.25,,2023
+7540105,Công nghệ chế biến thủy sản,A00,16,,2023
+7540105,Công nghệ chế biến thủy sản,B00,16,,2023
+7540105,Công nghệ chế biến thủy sản,D07,16,,2023
+7540105,Công nghệ chế biến thủy sản,D08,16,,2023
+7549001,Công nghệ chế biến lâm sản,A00,16,,2023
+7549001,Công nghệ chế biến lâm sản,A01,16,,2023
+7549001,Công nghệ chế biến lâm sản,B00,16,,2023
+7549001,Công nghệ chế biến lâm sản,D01,16,,2023
+7620105,Chăn nuôi,A00,16,,2023
+7620105,Chăn nuôi,B00,16,,2023
+7620105,Chăn nuôi,D07,16,,2023
+7620105,Chăn nuôi,D08,16,,2023
+7620109,Nông học,A00,17,,2023
+7620109,Nông học,B00,17,,2023
+7620109,Nông học,D07,17,,2023
+7620109,Nông học,D08,17,,2023
+7620112,Bảo vệ thực vật,A00,17,,2023
+7620112,Bảo vệ thực vật,B00,17,,2023
+7620112,Bảo vệ thực vật,D07,17,,2023
+7620112,Bảo vệ thực vật,D08,17,,2023
+7620114,Kinh doanh nông nghiệp,A00,17,,2023
+7620114,Kinh doanh nông nghiệp,A01,17,,2023
+7620114,Kinh doanh nông nghiệp,D01,17,,2023
+7620116,Phát triển nông thôn,A00,16,,2023
+7620116,Phát triển nông thôn,A01,16,,2023
+7620116,Phát triển nông thôn,D01,16,,2023
+7620201,Lâm học,A00,16,,2023
+7620201,Lâm học,B00,16,,2023
+7620201,Lâm học,D01,16,,2023
+7620201,Lâm học,D08,16,,2023
+7620202,Lâm nghiệp đô thị,A00,16,,2023
+7620202,Lâm nghiệp đô thị,B00,16,,2023
+7620202,Lâm nghiệp đô thị,D01,16,,2023
+7620202,Lâm nghiệp đô thị,D08,16,,2023
+7620211,Quản lý tài nguyên rừng,A00,16,,2023
+7620211,Quản lý tài nguyên rừng,B00,16,,2023
+7620211,Quản lý tài nguyên rừng,D01,16,,2023
+7620211,Quản lý tài nguyên rừng,D08,16,,2023
+7620301,Nuôi trồng thủy sản,A00,16,,2023
+7620301,Nuôi trồng thủy sản,B00,16,,2023
+7620301,Nuôi trồng thủy sản,D07,16,,2023
+7620301,Nuôi trồng thủy sản,D08,16,,2023
+7640101,Thú y,A00,24,,2023
+7640101,Thú y,B00,24,,2023
+7640101,Thú y,D07,24,,2023
+7640101,Thú y,D08,24,,2023
+7640101T,Thú y (Chương trinh tiên tiến),A00,25,,2023
+7640101T,Thú y (Chương trinh tiên tiến),B00,25,,2023
+7640101T,Thú y (Chương trinh tiên tiến),D07,25,,2023
+7640101T,Thú y (Chương trinh tiên tiến),D08,25,,2023
+7850101,Quản lý tài nguyên và môi trường,A00,16.5,,2023
+7850101,Quản lý tài nguyên và môi trường,A01,16.5,,2023
+7850101,Quản lý tài nguyên và môi trường,B00,16.5,,2023
+7850101,Quản lý tài nguyên và môi trường,D07,16.5,,2023
+7850103,Quản lý đất đai,A00,18.75,,2023
+7850103,Quản lý đất đai,A01,18.75,,2023
+7850103,Quản lý đất đai,A04,18.75,,2023
+7850103,Quản lý đất đai,D01,18.75,,2023
+7859002,Tài nguyên và du lịch sinh thái,A00,19,,2023
+7859002,Tài nguyên và du lịch sinh thái,B00,19,,2023
+7859002,Tài nguyên và du lịch sinh thái,D01,19,,2023
+7859002,Tài nguyên và du lịch sinh thái,D08,19,,2023
+7859007,Cảnh quan và Kỹ thuật hoa viên,A00,16,,2023
+7859007,Cảnh quan và Kỹ thuật hoa viên,B00,16,,2023
+7859007,Cảnh quan và Kỹ thuật hoa viên,D07,16,,2023
+7859007,Cảnh quan và Kỹ thuật hoa viên,D08,16,,2023

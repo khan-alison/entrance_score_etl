@@ -1,1 +1,169 @@
-
+major_code,major_name,subject_group,point,note,year
+7140201,Giáo dục Mầm non,M00,23.23,,2022
+7140201,Giáo dục Mầm non,M05,23.23,,2022
+7140201,Giáo dục Mầm non,C19,23.23,,2022
+7140201,Giáo dục Mầm non,C20,23.23,,2022
+7140202,Giáo dục Tiểu học,C01,23.28,,2022
+7140202,Giáo dục Tiểu học,C03,23.28,,2022
+7140202,Giáo dục Tiểu học,C04,23.28,,2022
+7140202,Giáo dục Tiểu học,D01,23.28,,2022
+7140204,Giáo dục Công dân,C00,26.51,,2022
+7140204,Giáo dục Công dân,C19,26.51,,2022
+7140204,Giáo dục Công dân,D01,26.51,,2022
+7140204,Giáo dục Công dân,D14,26.51,,2022
+7140205,Giáo dục Chính trị,C00,25.8,,2022
+7140205,Giáo dục Chính trị,C19,25.8,,2022
+7140205,Giáo dục Chính trị,D01,25.8,,2022
+7140205,Giáo dục Chính trị,D14,25.8,,2022
+7140206,Giáo dục Thể chất,T00,25.66,,2022
+7140206,Giáo dục Thể chất,T05,25.66,,2022
+7140206,Giáo dục Thể chất,T06,25.66,,2022
+7140206,Giáo dục Thể chất,T07,25.66,,2022
+7140209,Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh,A00,24.17,,2022
+7140209,Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh,A01,24.17,,2022
+7140209,Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh,A02,24.17,,2022
+7140209,Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh,A04,24.17,,2022
+7140209,Sư phạm Toán học - Chương trình đại trà - Chương trình Toán Tiếng Anh,D90,24.17,,2022
+7140210,Sư phạm Tin học,A00,19,,2022
+7140210,Sư phạm Tin học,A01,19,,2022
+7140210,Sư phạm Tin học,A02,19,,2022
+7140210,Sư phạm Tin học,A04,19,,2022
+7140210,Sư phạm Tin học,D90,19,,2022
+7140211,Sư phạm Vật lý,A00,23.98,,2022
+7140211,Sư phạm Vật lý,A01,23.98,,2022
+7140211,Sư phạm Vật lý,A02,23.98,,2022
+7140211,Sư phạm Vật lý,A04,23.98,,2022
+7140211,Sư phạm Vật lý,D90,23.98,,2022
+7140212,Sư phạm Hóa học,A00,24.45,,2022
+7140212,Sư phạm Hóa học,B00,24.45,,2022
+7140212,Sư phạm Hóa học,D07,24.45,,2022
+7140212,Sư phạm Hóa học,A06,24.45,,2022
+7140212,Sư phạm Hóa học,D90,24.45,,2022
+7140213,Sư phạm Sinh học,A02,23.2,,2022
+7140213,Sư phạm Sinh học,B00,23.2,,2022
+7140213,Sư phạm Sinh học,D08,23.2,,2022
+7140213,Sư phạm Sinh học,B02,23.2,,2022
+7140213,Sư phạm Sinh học,D90,23.2,,2022
+7140217,Sư phạm Ngữ văn,C00,26.4,,2022
+7140217,Sư phạm Ngữ văn,C19,26.4,,2022
+7140217,Sư phạm Ngữ văn,D14,26.4,,2022
+7140217,Sư phạm Ngữ văn,D15,26.4,,2022
+7140218,Sư phạm Lịch sử,C00,27.4,,2022
+7140218,Sư phạm Lịch sử,C19,27.4,,2022
+7140218,Sư phạm Lịch sử,D14,27.4,,2022
+7140218,Sư phạm Lịch sử,D09,27.4,,2022
+7140219,Sư phạm Địa lý,C00,25.57,,2022
+7140219,Sư phạm Địa lý,C04,25.57,,2022
+7140219,Sư phạm Địa lý,D10,25.57,,2022
+7140219,Sư phạm Địa lý,A07,25.57,,2022
+7140221,Sư phạm Âm nhạc,N00,18,,2022
+7140221,Sư phạm Âm nhạc,N01,18,,2022
+7140222,Sư phạm Mỹ thuật,H00,18,,2022
+7140222,Sư phạm Mỹ thuật,H07,18,,2022
+7140231,Sư phạm Tiếng Anh,D01,23.79,,2022
+7140231,Sư phạm Tiếng Anh,D14,23.79,,2022
+7140231,Sư phạm Tiếng Anh,D15,23.79,,2022
+7140231,Sư phạm Tiếng Anh,D13,23.79,,2022
+7140246,Sư phạm Công nghệ,A00,19,,2022
+7140246,Sư phạm Công nghệ,A01,19,,2022
+7140246,Sư phạm Công nghệ,A02,19,,2022
+7140246,Sư phạm Công nghệ,A04,19,,2022
+7140246,Sư phạm Công nghệ,D90,19,,2022
+7140247,Sư phạm Khoa học tự nhiên,A00,19,,2022
+7140247,Sư phạm Khoa học tự nhiên,A02,19,,2022
+7140247,Sư phạm Khoa học tự nhiên,B00,19,,2022
+7140247,Sư phạm Khoa học tự nhiên,D90,19,,2022
+7140249,Sư phạm Lịch sử và Địa lý,C00,20.25,,2022
+7140249,Sư phạm Lịch sử và Địa lý,D14,20.25,,2022
+7140249,Sư phạm Lịch sử và Địa lý,D15,20.25,,2022
+7140249,Sư phạm Lịch sử và Địa lý,A07,20.25,,2022
+7220201,- Biên-phiên dịch,A07,18,,2022
+7220201,Tiếng Anh kinh doanh,A07,18,,2022
+7220201,- Tiếng Anh du lịch,A07,18,,2022
+7220201,Ngôn ngừ Anh,A07,18,,2022
+7220204,Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh,C00,18,,2022
+7220204,Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh,D01,18,,2022
+7220204,Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh,D14,18,,2022
+7220204,Ngôn ngữ Trung Quốc - Ngôn ngữ Trung Quốc - Ngôn ngữ Trung - Anh,D15,18,,2022
+7229042,Quản lý văn hóa (Sự kiện và truyền thông),C00,15,,2022
+7229042,Quản lý văn hóa (Sự kiện và truyền thông),C19,15,,2022
+7229042,Quản lý văn hóa (Sự kiện và truyền thông),C20,15,,2022
+7229042,Quản lý văn hóa (Sự kiện và truyền thông),D14,15,,2022
+7310403,Tâm lý học giáo dục,A00,15,,2022
+7310403,Tâm lý học giáo dục,C00,15,,2022
+7310403,Tâm lý học giáo dục,C19,15,,2022
+7310403,Tâm lý học giáo dục,D01,15,,2022
+7310501,Địa lý học (Địa lý du lịch),A07,15,,2022
+7310501,Địa lý học (Địa lý du lịch),C00,15,,2022
+7310501,Địa lý học (Địa lý du lịch),D14,15,,2022
+7310501,Địa lý học (Địa lý du lịch),D15,15,,2022
+7310630,Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn),C00,15,,2022
+7310630,Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn),C19,15,,2022
+7310630,Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn),C20,15,,2022
+7310630,Việt Nam học (Hướng dẫn viên du lịch; Quản lý Nhà hàng và Khách sạn),D01,15,,2022
+7340101,Quản trị kinh doanh,A00,15,,2022
+7340101,Quản trị kinh doanh,A01,15,,2022
+7340101,Quản trị kinh doanh,D01,15,,2022
+7340101,Quản trị kinh doanh,D10,15,,2022
+7340120,Kinh doanh quốc tế,A00,15,,2022
+7340120,Kinh doanh quốc tế,A01,15,,2022
+7340120,Kinh doanh quốc tế,D01,15,,2022
+7340120,Kinh doanh quốc tế,D10,15,,2022
+7340201,Tài chính - Ngân hàng,A00,15,,2022
+7340201,Tài chính - Ngân hàng,A01,15,,2022
+7340201,Tài chính - Ngân hàng,D01,15,,2022
+7340201,Tài chính - Ngân hàng,D10,15,,2022
+7340301,Kế toán,A00,15,,2022
+7340301,Kế toán,A01,15,,2022
+7340301,Kế toán,D01,15,,2022
+7340301,Kế toán,D10,15,,2022
+7340403,Quản lý công,A00,15,,2022
+7340403,Quản lý công,A01,15,,2022
+7340403,Quản lý công,C15,15,,2022
+7340403,Quản lý công,D01,15,,2022
+7380101,Luật,A00,15.5,,2022
+7380101,Luật,C00,15.5,,2022
+7380101,Luật,C14,15.5,,2022
+7380101,Luật,D01,15.5,,2022
+7420201,Công nghệ sinh học,A00,15,,2022
+7420201,Công nghệ sinh học,A02,15,,2022
+7420201,Công nghệ sinh học,B00,15,,2022
+7420201,Công nghệ sinh học,D08,15,,2022
+7440301,Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường),A00,15,,2022
+7440301,Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường),B00,15,,2022
+7440301,Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường),D07,15,,2022
+7440301,Khoa học môi trường (Môi trường; An toàn sức khỏe môi trường),D08,15,,2022
+7480101,Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh),A00,15,,2022
+7480101,Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh),A01,15,,2022
+7480101,Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh),A02,15,,2022
+7480101,Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh),A04,15,,2022
+7480101,Khoa học Máy tính (Công nghệ phần mềm; Mạng máy tính và an ninh),D90,15,,2022
+7480201,Công nghệ thông tin,A00,16,,2022
+7480201,Công nghệ thông tin,A01,16,,2022
+7480201,Công nghệ thông tin,A02,16,,2022
+7480201,Công nghệ thông tin,A04,16,,2022
+7480201,Công nghệ thông tin,D90,16,,2022
+7620109,Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản),A00,15,,2022
+7620109,Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản),B00,15,,2022
+7620109,Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản),D07,15,,2022
+7620109,Nông học (Bảo vệ thực vật; Trồng trọt; Chăn nuôi thú y và thủy sản),D08,15,,2022
+7620301,Nuôi trồng thủy sàn,A00,15,,2022
+7620301,Nuôi trồng thủy sàn,B00,15,,2022
+7620301,Nuôi trồng thủy sàn,D07,15,,2022
+7620301,Nuôi trồng thủy sàn,D08,15,,2022
+7760101,Công tác xã hội,C00,15,,2022
+7760101,Công tác xã hội,C19,15,,2022
+7760101,Công tác xã hội,C20,15,,2022
+7760101,Công tác xã hội,D14,15,,2022
+7850101,Quản lý tài nguyên và môi trường,A00,15,,2022
+7850101,Quản lý tài nguyên và môi trường,B00,15,,2022
+7850101,Quản lý tài nguyên và môi trường,D07,15,,2022
+7850101,Quản lý tài nguyên và môi trường,D08,15,,2022
+7850103,Quản lý đất đai,A00,15,,2022
+7850103,Quản lý đất đai,A01,15,,2022
+7850103,Quản lý đất đai,B00,15,,2022
+7850103,Quản lý đất đai,D07,15,,2022
+51140201,Giáo dục Mầm non (Cao đẳng),M00,23,,2022
+51140201,Giáo dục Mầm non (Cao đẳng),M05,23,,2022
+51140201,Giáo dục Mầm non (Cao đẳng),C19,23,,2022
+51140201,Giáo dục Mầm non (Cao đẳng),C20,23,,2022

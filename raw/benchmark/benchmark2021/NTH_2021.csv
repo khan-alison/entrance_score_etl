@@ -16,30 +16,10 @@ NTH01-02,Ngành Kinh tế quốc tế,A01,27.5,,2021
 NTH01-02,Ngành Kinh tế quốc tế,D01,27.5,,2021
 NTH01-02,Ngành Kinh tế quốc tế,D03,27.5,,2021
 NTH01-02,Ngành Kinh tế quốc tế,D07,27.5,,2021
-NTH02,"Ngành Quản trị kinh doanh
-Ngành Kinh doanh quốc tế
-Ngành quản trị khách sạn
-Ngành Marketing",A00,27.7,,2021
-NTH02,"Ngành Quản trị kinh doanh
-Ngành Kinh doanh quốc tế
-Ngành quản trị khách sạn
-Ngành Marketing",A01,27.2,,2021
-NTH02,"Ngành Quản trị kinh doanh
-Ngành Kinh doanh quốc tế
-Ngành quản trị khách sạn
-Ngành Marketing",D01,27.2,,2021
-NTH02,"Ngành Quản trị kinh doanh
-Ngành Kinh doanh quốc tế
-Ngành quản trị khách sạn
-Ngành Marketing",D07,27.2,,2021
-NTH03,"Ngành Kế toán
-Ngành Tài chính - Ngân hàng",A00,27.45,,2021
-NTH03,"Ngành Kế toán
-Ngành Tài chính - Ngân hàng",A01,26.95,,2021
-NTH03,"Ngành Kế toán
-Ngành Tài chính - Ngân hàng",D01,26.95,,2021
-NTH03,"Ngành Kế toán
-Ngành Tài chính - Ngân hàng",D07,26.95,,2021
+NTH02,Ngành Quản trị kinh doanh Ngành Kinh doanh quốc tế Ngành quản trị khách sạn Ngành Marketing,D07,27.7,,2021
+NTH02,Ngành Quản trị kinh doanh Ngành Kinh doanh quốc tế Ngành quản trị khách sạn Ngành Marketing,D07,27.2,,2021
+NTH03,Ngành Kế toán Ngành Tài chính - Ngân hàng,D07,27.45,,2021
+NTH03,Ngành Kế toán Ngành Tài chính - Ngân hàng,D07,26.95,,2021
 NTH04,Ngành ngôn ngữ Anh,D01,27.5,Ngoại ngữ nhân 2,2021
 NTH05,Ngành ngôn ngữ Pháp,D01,26.2,Ngoại ngữ nhân 2,2021
 NTH05,Ngành ngôn ngữ Pháp,D03,25.2,Ngoại ngữ nhân 2,2021

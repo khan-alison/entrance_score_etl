@@ -46,31 +46,10 @@ major_code,major_name,subject_group,point,note,year
 7620301,Nuôi trông thủy sản,A01,20,,2020
 7620301,Nuôi trông thủy sản,B00,20,,2020
 7620301,Nuôi trông thủy sản,D01,20,,2020
-7810103,"Quản trị dịch vụ du lịch
-và lữ hành",A00,18,,2020
-7810103,"Quản trị dịch vụ du lịch
-và lữ hành",A01,18,,2020
-7810103,"Quản trị dịch vụ du lịch
-và lữ hành",D01,18,,2020
-7810103,"Quản trị dịch vụ du lịch
-và lữ hành",D10,18,,2020
+7810103,Quản trị dịch vụ du lịch và lữ hành,D01,18,,2020
 7810201,Quản trị khách sạn,A00,15,,2020
 7810201,Quản trị khách sạn,A01,15,,2020
 7810201,Quản trị khách sạn,D01,15,,2020
 7810201,Quản trị khách sạn,D10,15,,2020
-7810202,"Quản trị nhà hàng và dịch
-vụ ăn uống",A01,18,,2020
-7810202,"Quản trị nhà hàng và dịch
-vụ ăn uống",C00,18,,2020
-7810202,"Quản trị nhà hàng và dịch
-vụ ăn uống",D01,18,,2020
-7810202,"Quản trị nhà hàng và dịch
-vụ ăn uống",D15,18,,2020
-7850101,"Quản lý tài nguyên và môi
-trường",A00,15,,2020
-7850101,"Quản lý tài nguyên và môi
-trường",A01,15,,2020
-7850101,"Quản lý tài nguyên và môi
-trường",B00,15,,2020
-7850101,"Quản lý tài nguyên và môi
-trường",D01,15,,2020
+7810202,Quản trị nhà hàng và dịch vụ ăn uống,D10,18,,2020
+7850101,Quản lý tài nguyên và môi trường,D10,15,,2020

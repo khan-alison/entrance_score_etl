@@ -1,1 +1,77 @@
-
+major_code,major_name,subject_group,point,note,year
+7340301,Kế toán,A00,15,,2023
+7340301,Kế toán,A01,15,,2023
+7340301,Kế toán,C01,15,,2023
+7340301,Kế toán,D01,15,,2023
+7340101,Quản trị kinh doanh,A00,15,,2023
+7340101,Quản trị kinh doanh,A01,15,,2023
+7340101,Quản trị kinh doanh,C01,15,,2023
+7340101,Quản trị kinh doanh,D01,15,,2023
+7340201,Tài chính - Ngân hàng,A00,15,,2023
+7340201,Tài chính - Ngân hàng,A01,15,,2023
+7340201,Tài chính - Ngân hàng,C01,15,,2023
+7340201,Tài chính - Ngân hàng,D01,15,,2023
+7480201,Công nghệ thông tin,A00,15,,2023
+7480201,Công nghệ thông tin,A01,15,,2023
+7480201,Công nghệ thông tin,C01,15,,2023
+7480201,Công nghệ thông tin,D01,15,,2023
+7510205,Công nghệ kỹ thuật ô tô,A00,15,,2023
+7510205,Công nghệ kỹ thuật ô tô,A01,15,,2023
+7510205,Công nghệ kỹ thuật ô tô,C01,15,,2023
+7510205,Công nghệ kỹ thuật ô tô,D01,15,,2023
+7510605,Logistics và Quản lý chuỗi cung ứng,A00,15,,2023
+7510605,Logistics và Quản lý chuỗi cung ứng,A01,15,,2023
+7510605,Logistics và Quản lý chuỗi cung ứng,C01,15,,2023
+7510605,Logistics và Quản lý chuỗi cung ứng,D01,15,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,A00,15,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,A01,15,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,C01,15,,2023
+7520216,Kỹ thuật điều khiển và tự động hoá,D01,15,,2023
+7580101,Kiến trúc,V00,15,,2023
+7580101,Kiến trúc,V01,15,,2023
+7580101,Kiến trúc,A01,15,,2023
+7580101,Kiến trúc,D01,15,,2023
+7580103,Kiến trúc nội thất,V00,15,,2023
+7580103,Kiến trúc nội thất,V01,15,,2023
+7580103,Kiến trúc nội thất,A01,15,,2023
+7580103,Kiến trúc nội thất,D01,15,,2023
+7580301,Kinh tế xây dựng,A00,15,,2023
+7580301,Kinh tế xây dựng,A01,15,,2023
+7580301,Kinh tế xây dựng,C01,15,,2023
+7580301,Kinh tế xây dựng,D01,15,,2023
+7580213,Kỹ thuật cấp thoát nước,A00,15,,2023
+7580213,Kỹ thuật cấp thoát nước,A01,15,,2023
+7580213,Kỹ thuật cấp thoát nước,C01,15,,2023
+7580213,Kỹ thuật cấp thoát nước,D01,15,,2023
+7580201,Kỹ thuật xây dựng,A00,15,,2023
+7580201,Kỹ thuật xây dựng,A01,15,,2023
+7580201,Kỹ thuật xây dựng,C01,15,,2023
+7580201,Kỹ thuật xây dựng,D01,15,,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,A00,15,,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,A01,15,,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,C01,15,,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,D01,15,,2023
+7580106,Quản lý đô thị và công trình,A00,15,,2023
+7580106,Quản lý đô thị và công trình,A01,15,,2023
+7580106,Quản lý đô thị và công trình,C01,15,,2023
+7580106,Quản lý đô thị và công trình,D01,15,,2023
+7580302,Quản lý xây dựng,A00,15,,2023
+7580302,Quản lý xây dựng,A01,15,,2023
+7580302,Quản lý xây dựng,C01,15,,2023
+7580302,Quản lý xây dựng,D01,15,,2023
+7580101,Kiến trúc,V00,15,Phân hiệu Đà Nẵng,2023
+7580101,Kiến trúc,V01,15,Phân hiệu Đà Nẵng,2023
+7580101,Kiến trúc,A01,15,Phân hiệu Đà Nẵng,2023
+7580101,Kiến trúc,D01,15,Phân hiệu Đà Nẵng,2023
+7580201,Kỹ thuật xây dựng,A00,15,Phân hiệu Đà Nẵng,2023
+7580201,Kỹ thuật xây dựng,A01,15,Phân hiệu Đà Nẵng,2023
+7580201,Kỹ thuật xây dựng,C01,15,Phân hiệu Đà Nẵng,2023
+7580201,Kỹ thuật xây dựng,D01,15,Phân hiệu Đà Nẵng,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,A00,15,Phân hiệu Đà Nẵng,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,A01,15,Phân hiệu Đà Nẵng,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,C01,15,Phân hiệu Đà Nẵng,2023
+7580205,Kỹ thuật xây dựng công trình giao thông,D01,15,Phân hiệu Đà Nẵng,2023
+7580302,Quản lý xây dựng,A00,15,Phân hiệu Đà Nẵng,2023
+7580302,Quản lý xây dựng,A01,15,Phân hiệu Đà Nẵng,2023
+7580302,Quản lý xây dựng,C01,15,Phân hiệu Đà Nẵng,2023
+7580302,Quản lý xây dựng,D01,15,Phân hiệu Đà Nẵng,2023

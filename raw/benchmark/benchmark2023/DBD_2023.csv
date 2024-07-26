@@ -11,30 +11,11 @@ major_code,major_name,subject_group,point,note,year
 7380107,Luật kinh tế,A09,15,Cơ sở chính; phân hiệu,2023
 7380107,Luật kinh tế,C00,15,Cơ sở chính; phân hiệu,2023
 7380107,Luật kinh tế,D01,15,Cơ sở chính; phân hiệu,2023
-7340101,"Quản trị kinh doanh
-Chuyên ngành
-- Quản trị doanh nghiệp
-- Quản trị Logistics 
-- Bất động sản
-- Digital Marketing",A01,15,Cơ sở chính; phân hiệu,2023
-7340101,"Quản trị kinh doanh
-Chuyên ngành
-- Quản trị doanh nghiệp
-- Quản trị Logistics 
-- Bất động sản
-- Digital Marketing",A09,15,Cơ sở chính; phân hiệu,2023
-7340101,"Quản trị kinh doanh
-Chuyên ngành
-- Quản trị doanh nghiệp
-- Quản trị Logistics 
-- Bất động sản
-- Digital Marketing",C00,15,Cơ sở chính; phân hiệu,2023
-7340101,"Quản trị kinh doanh
-Chuyên ngành
-- Quản trị doanh nghiệp
-- Quản trị Logistics 
-- Bất động sản
-- Digital Marketing",D01,15,Cơ sở chính; phân hiệu,2023
+7340101,Quản trị doanh nghiệp,D01,15,Cơ sở chính; phân hiệu,2023
+7340101,Quản trị Logistics,D01,15,Cơ sở chính; phân hiệu,2023
+7340101,Bất động sản,D01,15,Cơ sở chính; phân hiệu,2023
+7340101,Digital Marketing,D01,15,Cơ sở chính; phân hiệu,2023
+7340101,Quản trị kinh doanh Chuyên ngành,D01,15,Cơ sở chính; phân hiệu,2023
 7540101,Công nghệ thực phẩm,A00,15,Cơ sở chính,2023
 7540101,Công nghệ thực phẩm,A09,15,Cơ sở chính,2023
 7540101,Công nghệ thực phẩm,B00,15,Cơ sở chính,2023
@@ -43,30 +24,11 @@ Chuyên ngành
 7510605,Logistics và Quản lý chuỗi cung ứng,A09,15,Cơ sở chính; phân hiệu,2023
 7510605,Logistics và Quản lý chuỗi cung ứng,C00,15,Cơ sở chính; phân hiệu,2023
 7510605,Logistics và Quản lý chuỗi cung ứng,D01,15,Cơ sở chính; phân hiệu,2023
-7480201,"Công nghệ thông tin
-Chuyên ngành
-- Robot và Trí tuệ nhân tạo
--Kỹ thuật phần mềm 
-- Hệ thống thông tin
-- Mạng máy tính & An toàn thông tin",A00,15,Cơ sở chính; phân hiệu,2023
-7480201,"Công nghệ thông tin
-Chuyên ngành
-- Robot và Trí tuệ nhân tạo
--Kỹ thuật phần mềm 
-- Hệ thống thông tin
-- Mạng máy tính & An toàn thông tin",A09,15,Cơ sở chính; phân hiệu,2023
-7480201,"Công nghệ thông tin
-Chuyên ngành
-- Robot và Trí tuệ nhân tạo
--Kỹ thuật phần mềm 
-- Hệ thống thông tin
-- Mạng máy tính & An toàn thông tin",D01,15,Cơ sở chính; phân hiệu,2023
-7480201,"Công nghệ thông tin
-Chuyên ngành
-- Robot và Trí tuệ nhân tạo
--Kỹ thuật phần mềm 
-- Hệ thống thông tin
-- Mạng máy tính & An toàn thông tin",K01,15,Cơ sở chính; phân hiệu,2023
+7480201,Robot và Trí tuệ nhân tạo,D01,15,Cơ sở chính; phân hiệu,2023
+7480201,Kỹ thuật phần mềm,D01,15,Cơ sở chính; phân hiệu,2023
+7480201,Hệ thống thông tin,D01,15,Cơ sở chính; phân hiệu,2023
+7480201,Mạng máy tính & An toàn thông tin,D01,15,Cơ sở chính; phân hiệu,2023
+7480201,Công nghệ thông tin Chuyên ngành,D01,15,Cơ sở chính; phân hiệu,2023
 7510301,"Công nghệ kỹ thuật điện, điện tử",A00,15,Cơ sở chính,2023
 7510301,"Công nghệ kỹ thuật điện, điện tử",A02,15,Cơ sở chính,2023
 7510301,"Công nghệ kỹ thuật điện, điện tử",A09,15,Cơ sở chính,2023
@@ -99,19 +61,6 @@ Chuyên ngành
 7220201,Ngôn ngữ Anh,D01,15,Cơ sở chính; phân hiệu,2023
 7220201,Ngôn ngữ Anh,D10,15,Cơ sở chính; phân hiệu,2023
 7220201,Ngôn ngữ Anh,D66,15,Cơ sở chính; phân hiệu,2023
-7310301,"Xã hội học
-Chuyên ngành
-- Truyền thông đa phương tiện
-- Quan hệ công chúng",A01,15,Cơ sở chính,2023
-7310301,"Xã hội học
-Chuyên ngành
-- Truyền thông đa phương tiện
-- Quan hệ công chúng",A09,15,Cơ sở chính,2023
-7310301,"Xã hội học
-Chuyên ngành
-- Truyền thông đa phương tiện
-- Quan hệ công chúng",C00,15,Cơ sở chính,2023
-7310301,"Xã hội học
-Chuyên ngành
-- Truyền thông đa phương tiện
-- Quan hệ công chúng",D01,15,Cơ sở chính,2023
+7310301,Truyền thông đa phương tiện,D66,15,Cơ sở chính,2023
+7310301,Quan hệ công chúng,D66,15,Cơ sở chính,2023
+7310301,Xã hội học Chuyên ngành,D66,15,Cơ sở chính,2023

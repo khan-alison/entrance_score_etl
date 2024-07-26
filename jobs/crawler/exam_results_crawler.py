@@ -92,5 +92,5 @@ if __name__ == "__main__":
 
         if all_data:
             csv_manager = BaseManagementCSVData(
-                './raw/exam_result', f'{all_data[0].get('groupName')}.csv', os, pd)
+                './raw/exam_result', f'{all_data[0].get('groupName').strip()}.csv', os, pd)
             csv_manager.save_data(all_data)

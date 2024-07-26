@@ -19,4 +19,17 @@ class RawCSVReader(RawReader):
 
     def read_table(self):
         path_of_table = self.path_to_raw + self.table_name
+        print(path_of_table)
         return self.spark.read.options(header=True, inferSchema=True).csv(path_of_table).cache()
+
+
+class RawParquetReader(RawCSVReader):
+    def __init__(self, spark, path_to_golden, table_name):
+        super().__init__(spark, path_to_golden, table_name)
+        self.spark = spark
+        self.path_to_golden = path_to_golden
+        self.table_name = table_name
+
+    def read_table(self):
+        path_of_table = self.path_to_golden + self.table_name
+        return self.spark.read.parquet(path_of_table).cache()
